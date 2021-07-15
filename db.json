@@ -3,1248 +3,842 @@
         {
             "id": 0,
             "nama_batik": "Batik Megamendung",
-            "image": "https://s0.bukalapak.com/uploads/attachment/00083/batik_mega_mendung_cirebon.jpg",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2-9.png",
             "daerah": "Jawa Barat",
-            "makna": "Warna cerah dipengaruhi karena letak Cirebon yang dekat dengan pantai, membuatnya masuk dalam golongan batik pesisir. Meski begitu, batik Cirebon juga masuk ke dalam bagian batik keraton. Ini karena di sana terdapat tiga keraton yang juga memiliki motif sendiri dari setiap keratonnya.           Megamendung menjadi motif batik yang paling banyak dibuat karena mencirikan Cirebon. Motif batik ini menggambarkan awan yang membawa hujan ini bermakna lambang kesuburan dan pem­beri kehidupan. Menilik dari segi sejarah, motif megamendung sangat berkaitan pada sejarah datangnya bangsa Tiongkok ke Cirebon. Pencampuran warnanya sangat detail dengan pengerjaan lebih dari dua kali untuk mendapatkan warna maksimal."
+            "makna": "Motif ini konon diciptakan oleh seorang Raja di masa Kerajaan Pajajaran (923-1428) yang mendapatkan ilham melalui meditasi untuk mendapatkan petunjuk Tuhan untuk mengatasi pergolakan. Kata “Mega” berarti sinar mentari, sementara “Mendung” merupakan awan yang menutupi terik matahari. Motif awan ini menyiratkan kemampuan untuk tetap tenang dalam segala situasi, dan kemampuan untuk menjadi pimpinan yang mengilhami dan berbudi tinggi yang melindungi warga dan memenuhi kebutuhannya. "
         },
         {
             "id": 1,
-            "nama_batik": "Batik Garutan",
-            "image": "https://s0.bukalapak.com/uploads/content_attachment/a14891a120e8d7629a78a6c5/w-744/batik-garutan.jpg",
+            "nama_batik": "Batik Banji Cirebon",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-11.png",
             "daerah": "Jawa Barat",
-            "makna": "Motif batik Jawa Barat yang dihadirkan dari batik garutan sangat beragam dengan ciri khas bentuk geometris dan flora fauna. Bentuk geometris umumnya mengarah ke garis diagonal dan bentuk kawung atau belah ketupat. Warnanya didominasi oleh warna krem dipadukan dengan warna-warna cerah yang menjadi karakteristik batik garutan. Saat ini pengolahan batik garutan terkonsentrasi di kota Garut."
+            "makna": "Motif banji merupakan stilisasi motif swastika dari India yang masuk ke Indonesia melalui Tiongkok. Nama “banji” berasal dari istilah bahasa dialek suku Tionghoa “banzi”, yang secara harafiah berarti “sepuluh ribu”, sedangkan swastika itu sendiri merupakan simbol spiritual yang telah diadaptasi oleh kebudayaan Tiongkok. “Banji” melambangkan keberlimpahan dan keterhubungan spiritual segala hal yang ada di alam semesta. Motif ini dimaksudkan untuk menjaga kemurnian spiritual penggunanya dan melindunginya dari segala macam mara bahaya."
         },
         {
             "id": 2,
-            "nama_batik": "Batik Ciamis",
-            "image": "https://s0.bukalapak.com/uploads/content_attachment/fa5b786420e8d7620388a6c5/w-744/3._Batik_Ciamis.jpg",
+            "nama_batik": "Batik Sinaran",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/3-10.png",
             "daerah": "Jawa Barat",
-            "makna": "Motif ciung wanara diambil dari sejarah perebutan kekuatan di Ciamis oleh tokoh bernama yang sama. Sedangkan motif galuh pakuan, diambil dari gagang keris Raja Galuh. Sementara motif batu hiu diambil dari pariwisata di Pangandaran."
-        },
-        {
-            "id": 3,
-            "nama_batik": "Batik Cianjur",
-            "image": "https://s1.bukalapak.com/uploads/content_attachment/11c97b7740e8d762e688a6c5/w-744/4._Batik_Cianjur.jpg",
-            "daerah": "Jawa Barat",
-            "makna": "Sejarah keberadaan batik Cianjur sudah ada sejak tahun 1920. Ketika itu, pernah ada pengrajin batik yang berada di Kelurahan Bojongherang dan kain Poleng yang terkenal di daerah Sindanglaka, Karangtengah. Bila diperhatikan lebih jeli, batik Jawa yang satu ini sangat khas dengan menggambarkan hasil pertanian. Ini karena kehidupan masyarakat di sana yang agraris. Warna dan motifnya sangat bernuansa tumbuhan, Seperti pemakaian warna hijau dengan motif bulir padi."
-        },
-        {
-            "id": 4,
-            "nama_batik": "Batik Sumedang",
-            "image": "https://s1.bukalapak.com/uploads/content_attachment/680db7f840e8d7623298a6c5/w-744/6._Batik_Sumedang_infobatik.id.jpg",
-            "daerah": "Jawa Barat",
-            "makna": "Motif batik Jawa Barat yang satu ini terinspirasi dari kerajaan-kerajaan yang ada di Sumedang. Motif batiknya pun dihadirkan dengan variasi yang menarik, seperti motif lingga, motif kembang boled, hanjuang, klowongan tahu, mahkota (siger) binokasih, dan pintu srimangganti.            "
-        },
-        {
-            "id": 5,
-            "nama_batik": "Batik Priyangan",
-            "image": "https://s0.bukalapak.com/uploads/content_attachment/f9b4463520e8d7622598a6c5/w-744/8._Priyangan_tasikmalaya.jpg",
-            "daerah": "Jawa Barat",
-            "makna": "Motif batik Jawa Barat yang satu ini juga memiliki motif yang terinspirasi dari tumbuhan. Uniknya, motif dibuat lebih simetris dan menghasilkan pola-pola yang lebih rapi. Batik Jawa yang satu ini memiliki ciri khas warna terang tetapi kalem dan tidak mencolok."
+            "makna": "Motif ini berasal dari Cirebon. Ia merupakan gambaran cahaya yang menyinari bunga di taman. Cahaya tersebut melambangkan pengetahuan dan pemahaman spiritual yang mendalam yang memungkinkan kita memandang segala sesuatu dengan positif, sedangkan bunga-bunganya melambangkan kemampuan untuk menghargai dan bersyukur segala hal terkecil sekalipun."
         },
         {
             "id": 6,
-            "nama_batik": "Batik Tuban",
-            "image": "https://i1.wp.com/riverspace.org/wp-content/uploads/2021/02/batik-tuban.jpg?resize=768%2C404&ssl=1",
+            "nama_batik": "Batik Gedhog Kembang Waluh",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/4-10.png",
             "daerah": "Jawa Timur",
-            "makna": "Kota Tuban sebagai salah satu tempat yang terletak di pesisir utara Pulau Jawa, tidak kalah dalam masalah pengembangan desain batiknya sendiri. Dalam awal mula kemunculannya, batik Tuban medapatkan pengaruh yang cukup besar dari kebudayaan China. Hal ini ditandai dengan adanya motif lok chan yang sangat terkenal di kawasan Tuban. Selain motif lok chan, ada juga motif lain yang tidak kalah terkenal berupa motif macanan dan guntingan. Penggunaan unsur warna dalam motif batik Tuban pada awalnya menggunakan warna biru, merah mengkudu, hitam dan kuning. Namun seiring berkembangnya zaman, pemakaian warna pun semakin beragam."
+            "makna": "Motif Gedhog merupakan gabungan motif dari budaya kerajaan Jawa Majapahit (abad ke-12 hingga ke-14), akulturasi budaya Cina (abad ke-12), dan budaya Islam (1465-1525 M). Interaksi ketiga budaya ini sangat mempengaruhi gaya hidup masyarakat Tuban hingga sekarang. Selendang dengan motif ini biasanya dipergunakan untuk melakukan ritual, upacara, dan pernikahan. Motif bunga ini secara simbolis merupakan perlindungan penggunanya dari nasib buruk dan membantu penyembuhan orang sakit."
         },
         {
             "id": 7,
-            "nama_batik": "Batik Banyuwangi",
-            "image": "https://i1.wp.com/riverspace.org/wp-content/uploads/2021/02/Banyuwangi.jpg?resize=750%2C421&ssl=1",
+            "nama_batik": "Batik Samudra",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/134.png",
             "daerah": "Jawa Timur",
-            "makna": "Masih sedikit sekali yang mengetahui bahwasanya batik Banyuwangi adalah salah satu adanya keindahan motif yang tersebar di Indonesia. Pada dasarnya semua nama dari berbagai motif batik Banyuwangi dipengaruhi oleh kondisi alam daerah setempat. Misalnya saja seperti motif gajah oling yang cukup terkenal, sebab motifnya berupa hewan yang unik seperti belut yang ukurannya cukup besar."
+            "makna": "Ada pula tema yang dapat digariskan pada tekstil dengan menggunakan teknik batik. Motif batik ini menggambarkan kuatnya tekad seseorang yang berlayar agar dapat mengejar tujuan hidupnya. Lukisan ini juga menggambarkan doa dan harapan agar seseorang yang merantau dapat menjemput keberhasilan."
         },
         {
             "id": 8,
-            "nama_batik": "Batik Madura",
-            "image": "https://i2.wp.com/riverspace.org/wp-content/uploads/2021/02/Madura.jpg?w=640&ssl=1",
+            "nama_batik": "Batik Sekar Jati",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2323.png",
             "daerah": "Jawa Timur",
-            "makna": "Motif batik Madura pada dasarnya menggunakan warna alami, sehingga warnanya cukup terang dan mencolok. Selain dari segi warna yang mencolok seperti merah, hijau dan kuning, batik Madura juga mempunyai ragam motif yang menarik."
+            "makna": "Kata “Sekarjati” merupakan gabungan dari kata “sekar” (“bunga”) dan “jati”. Pohon jati merupakan aset ekonomi yang penting bagi masyarakat Bojonegoro. Motif ini melambangkan harapan agar penggunanya memiliki sifat yang tegar seperti jati, dan membawa pengaruh baik ke masyarakat seperti bunga."
         },
         {
             "id": 9,
-            "nama_batik": "Batik Mojokerto",
-            "image": "https://i1.wp.com/riverspace.org/wp-content/uploads/2021/02/Mojokerto.jpg?resize=750%2C500&ssl=1",
+            "nama_batik": "Batik Gajah Mungkur",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/eqwe.png",
             "daerah": "Jawa Timur",
-            "makna": "Pada dasarnya semua motif batik dari Mojokerto ini mengambil corak dari alam dikehidupan sekitar manusia. Seperti yang saya sebutkan diatas, berupa pring sedapur yang menjadi pengambaran rumpun bambu dengan daun-daun menjuntai dan ada burung merak sedang berkelahi. Sedangkan dalam unsur warna yang digunakan dalam motifnya cenderung putih dengan batang babu berwarna biru, sementara bagian daunnya berwarna hitam. Motif batik Jawa Timur yang berasal dari Mojokerto ini cukup menarik dan unik, salah satunya adalah motif bambu rubuh yang coraknya sama seperti anaman bamu yang miring. Sedangkan pada motif mrico bolong segi coraknya berupa bulatan merica berlubang."
-        },
-        {
-            "id": 10,
-            "nama_batik": "Batik Jombang",
-            "image": "https://i1.wp.com/riverspace.org/wp-content/uploads/2021/02/Jombang.jpg?resize=768%2C576&ssl=1",
-            "daerah": "Jawa Timur",
-            "makna": "Kerajinan batik di Kabupaten Jombang masih dibilang tergolong baru dalam budaya perbatikan, yakni sekitar tahun 2000-an baru berkembang. Ketika awal kemunculannya, motif batik Jombang banyak yang memakai motif tawangan dan kaning dengan warna dasar yang sangat khas dari kota Jombang, yakni merah dan hijau."
-        },
-        {
-            "id": 11,
-            "nama_batik": "Batik Sidoarjo",
-            "image": "https://i2.wp.com/riverspace.org/wp-content/uploads/2021/02/Sidoarjo.jpg?resize=768%2C576&ssl=1",
-            "daerah": "Jawa Timur",
-            "makna": "Kabupaten Sidoarjo juga tidak mau kalah dalam ikut serta menyumbang kekayaan motif bati Jawa Timur dengan motif yang khas daerah sendiri. Motif batik yang berasal dari Jetis Sidoarjo biasanya adalah flora dan fauna khas Sidoarjo yang cenderung berwarna cerah, kuning, merah, dan hijau."
+            "makna": "Motif Batik Gajah Mungkur ini dibuat oleh seorang wanita saat menunggu kedatangan suaminya yang pergi berlayar selama bertahun-tahun. Motif ini menggunakan gambar “gajah” yang “mungkur” (terperangkap) di hutan bambu sebagai perlambangan perasaan rindu yang terperangkap dalam hati dan tak terkatakan pada seseorang.            "
         },
         {
             "id": 12,
-            "nama_batik": "Batik Parang Kusumo",
-            "image": "https://sintesakonveksi.com/info/wp-content/uploads/2021/02/Motif-Batik-Parang-Kusumo-2.jpg",
+            "nama_batik": "Batik Sido Mulyo",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/11/Central-Java-1.png",
             "daerah": "Jawa Tengah",
-            "makna": "Batik solo motif parang kusumo ini biasanya dipakai oleh pengantin wanita pada saat upacara tukar cincin. Kusumo berarti bunga yang sedang mekar. Hakikatnya pengantin wanita sudah siap lahir maupun bathin menikah."
+            "makna": "Sido Mulyo merupakan salah satu motif klasik yang khusus dipergunakan untuk pakaian pernikahan mempelai wanita dalam pernikahan keturunan raja dan bangsawan di Jawa.  Motif ini melambangkan harapan baik agar penggunanya mendapatkan kemuliaan, keluarga yang harmonis, dan status social yang dihormati."
         },
         {
             "id": 13,
-            "nama_batik": "Batik Kawung",
-            "image": "https://cdn0-production-images-kly.akamaized.net/pWrvLbr6W2YnyKuD01aLvPls3hs=/0x0/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2184692/original/066555600_1525760533-152576053360272batik-kawung.jpg",
+            "nama_batik": "Batik Merak Lasem",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/afl.png",
             "daerah": "Jawa Tengah",
-            "makna": "Motif batik kawung banyak dimaknai sebagai gambar bunga teratai dengan empat lembar daun bunga yang merekah. Bagi orang Jawa bunga teratai sering diartikan sebagai umur yang panjang dan juga kesucian."
+            "makna": "Merak dianggap sebagai raja para burung. Ia dianggap melambangkan keindahan, kekuatan, dan keanggunan dalam perilaku dan sikap sehari-hari. Motif yang kaya warna ini merupakan ciri khas batik yang diproduksi di daerah pesisir Utara Jawa."
         },
         {
             "id": 14,
-            "nama_batik": "Batik Sawat",
-            "image": "https://www.semarangpos.com/files/2020/07/25batik.jpg",
+            "nama_batik": "Batik Gurdo Solo",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/11/Gurdo.png",
             "daerah": "Jawa Tengah",
-            "makna": "Sawat berasal dari kata sawat atau sayap, adapula yang berpendapat bahwa kata sawat berasal dari kata syahwat atau nafsu. Motif ini dahulu dianggap sangat sakral dan hanya dipakai oleh raja dan keluarganya. Motif bentuk sayap yang disusun sedemikian rupa ini sering dimaknai sebagai burung garuda kendaraan Dewa Wisnu yang melambangkan kekuasaan atau raja."
+            "makna": "“Gurdo” atau garuda adalah kendaraan Dewa Wisnu.  Sebagai Burung Mentari, Gurda dilihat sebagai sumber utama kehidupan sekaligus simbol kejantanan.  Oleh sebab itu, simbol ini diharapkan akan menggugah kejujuran, keteguhan, dan kekuatan pada penggunanya.  Kain ini diberi warna dengan cara merendamnya dalam pewarna alami yang dibuat dari kayu tingki dari pulau Sumbawa, Indonesia Timur."
         },
         {
             "id": 15,
-            "nama_batik": "Batik Truntum",
-            "image": "http://batik.or.id/wp-content/uploads/2017/04/batik-motif-truntum.jpg",
+            "nama_batik": "Batik Parang Seling",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/apr.png",
             "daerah": "Jawa Tengah",
-            "makna": "Kata Truntum sering dimaknai sebagai penuntun, sehingga sebagai orang tua diharapkan selalu bisa dijadikan sebagai penuntun, panutan, atau contoh yang baik bagi anaknya dalam mengarungi hidup baru."
-        },
-        {
-            "id": 16,
-            "nama_batik": "Batik Slobog",
-            "image": "https://dcywrb6nqrsdp.cloudfront.net/attachment/86856396051825913603",
-            "daerah": "Jawa Tengah",
-            "makna": "Slobog berarti longgar/besar. Batik solo ini biasa dipakai untuk melayat. Makna yang terkandung di dalam motif batik ini agar arwah seseorang yang meninggal tidak mendapat halangan dan dapat diterima kebaikannya"
-        },
-        {
-            "id": 17,
-            "nama_batik": "Batik Semen Gendong",
-            "image": "https://thekurniabatik.files.wordpress.com/2015/04/motif-batik-solo-ceplok-kasatrian.jpg?w=584",
-            "daerah": "Jawa Tengah",
-            "makna": "Motif semen gendong adalah jenis kain batik yang dikenakan oleh mempelai wanita dan pria setelah selesai upacara pernikahan sebagai wujud suatu harapan agar segera mendapatkan anak yang berbakti, penurut, serta soleh dan solehah."
+            "makna": "Parang Seling merupakan motif batik kerajaan.  Motif ini merupakan varian feminine dari motif “parang” klasik, yang diseling dengan motif bunga.  Selang-seling kedua motif yang berbeda ini mengingatkan para putri kerajaan bahwa mereka diharapkan untuk berlaku halus, lembut, dan harmonis dalam kehidupan sehari-hari, tapi juga tegas dan tak tergoyahkan dalam memegang prinsip dan keyakinannya."
         },
         {
             "id": 18,
-            "nama_batik": "Batik Pencakar Langit",
-            "image": "https://museumnusantara.com/wp-content/uploads/2021/03/seraci-batik-betawi-min-2.jpg",
+            "nama_batik": "Batik Ondel – Ondel",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-6.png",
             "daerah": "Jakarta",
-            "makna": "Motif ini menggambarkan ondel-ondel sebagai maskot Betawi yang berdiri kokoh di antara bangunan-bangunan pencakar langit, kemajuan teknologi, dan derasnya komunikasi modern di Jakarta. Semaju apapun Jakarta, ondel-ondel tetaplah menjadi penyemangat dalam mempertahankan budaya Betawi. Jakarta tidak akan meninggalkan tradisi yang berakar dari nenek moyang walaupun terus berkembang secara teknologi."
+            "makna": "Boneka ondel-ondel merupakan salah lambang khas tradisional Betawi. Motif ini menggambarkan harapan agar pemakai berhasil mencapai hidup yang lebih makmur dan terlindungi dari nasib buruk dan bahaya. Batik Betawi diklasifikasikan sebagai batik daerah pesisir, yang banyak menggunakan warna-warni cerah untuk melambangkan kebahagiaan, semangat hidup, dan dinamisme."
         },
         {
             "id": 19,
-            "nama_batik": "Batik Jali-jali",
-            "image": "https://i.pinimg.com/originals/00/de/75/00de7507366ba7ba0941d11f3287e151.jpg",
+            "nama_batik": "Batik Rasamala",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2-5.png",
             "daerah": "Jakarta",
-            "makna": "Motif ini tercipta dari sejarah sederhana tentang jail-jali Jakarta. Motif ini untuk mengenang bahwa dahulu di Jakarta banyak sekali jail-jali. Pohon ini paling disukai anak-anak karena buahnya sering dijadikan kalung dan gelang. Jali-jali juga diabadikan dalam sebuah lagu tradisional Betawi."
+            "makna": "Motif batik rasamala dikaitkan dengan masa ketika Belanda pertama kali mendarat di daerah Sunda Kelapa pada abad ke-16. Saat itu, Sunda Kelapa merupakan daerah hutan rawa liar yang ditutupi pohon rasamala. Orang Betawi menganggap pohon rasamala sebagai pohon yang keramat karena wanginya yang indah."
         },
         {
             "id": 20,
-            "nama_batik": "Batik Burung Hong",
-            "image": "https://lh6.googleusercontent.com/proxy/Mq3yCGVrVyHYDNmtaCTYr-87KRYdPodX39nhFKIg9uj1DBrgho3nisz4-j2d8rGkW2LDoZzI825la0pxoDJPTUysMSA2McCEiRw4JYXRlDVSe_-vW0Aig419Zg=w1200-h630-p-k-no-nu",
+            "nama_batik": "Batik Salakanagara",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/6-6.png",
             "daerah": "Jakarta",
-            "makna": "Seperti namanya, motif Batik Betawi ini memiliki gambar Burung Hong yang merupakan lambang kebahagiaan. Motif ini mendapat banyak pengaruh dari budaya Tiongkok dan Arab. Motif Burung Hong biasanya didominasi dengan warna merah dan kuning."
-        },
-        {
-            "id": 21,
-            "nama_batik": "Batik Peganten Betawi",
-            "image": "https://s3.bukalapak.com/img/8155581412/large/IMG_20180121_WA0024_scaled.jpg",
-            "daerah": "Jakarta",
-            "makna": "Motif ini menggambarkan pakaian pengantin laki-laki dan perempuan Betawi yang merupakan percampuran budaya Tiongkok dan Arab. Dalam motif ini ada bermacam warna yang tersedia, baik yang terang maupun yang gelap."
-        },
-        {
-            "id": 22,
-            "nama_batik": "Batik Penari Ngaronjeng",
-            "image": "https://i.pinimg.com/originals/4f/3a/b3/4f3ab360f82b9f25a0b8b8d10505d141.jpg",
-            "daerah": "Jakarta",
-            "makna": "Dalam motif Batik Betawi ini tari Ngaronjeng menggambarkan seorang wanita yang sedang menari dengan pakaian bagus. Melalui motif inilah kesenian Betawi dikenal warga Jakarta bahkan hingga wisatawan mancanegara. Tersedia beragam warna pada motif ini. Ada warna terang dan juga gelap."
-        },
-        {
-            "id": 23,
-            "nama_batik": "Batik Pucuk Rebung",
-            "image": "https://cf.shopee.co.id/file/8351150739f116162a33c905272b7a6c",
-            "daerah": "Jakarta",
-            "makna": "Memiliki bentuk berupa jajaran segitiga yang saling berhadapan atau berlawanan. Motif ini biasanya didominasi dengan warna merah dan kuning. Sementara itu, warna dasar kain umumnya berwarna hitam atau biru. Untuk pemakaiannya, kain batik motif pucuk rebung ini dipakai pada kain bagian depan.            "
+            "makna": "Motif batik Salakanagara melambangkan kerajaan pertama di daerah Betawi yang didirikan oleh Aki Tirem pada tahun 130 Masehi. “Salakanegara” berarti “Negara Salak”, yang merupakan nama daerah yang berada di sekitar Gunung Salak yang dianggap keramat. Gunung Salak sendiri dinamai sesuai nama buah yang kulitnya bersisik."
         },
         {
             "id": 24,
-            "nama_batik": "Batik Datulaya",
-            "image": "https://i2.wp.com/riverspace.org/wp-content/uploads/2021/03/dataluya.jpg?w=679&ssl=1",
+            "nama_batik": "Batik Tangerang Herang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-5.png",
             "daerah": "Banten",
-            "makna": "Motif batik Banten pertama berupa dataluya ini memiliki motif dasar belah ketupat berbentuk bunga dan lingkaran dalam pigura sulur-sulur daun. Untuk Di dalam booh motif dasarnya berupa topeng manusia yang sudah distelir. Unsur warna biru yang dipakai pada motif dasarnya, yakni pigura sulur-sulur daun berwarna abu-abu, dasar kain berwarna kuning dan pada booh berwarna biru. Sedangkan nama datulaya sendiri diambil dari nama tempat tinggal pangeran yang berasal dari kata “Datu”artinya pangeran dan “Laya” artinya residen."
+            "makna": "Motif Tangerang Herang merupakan perlambangan kota Tangerang. Ia merupakan gabungan dari beberapa motif, yakni Gedung paviliun, sepuluh pintu, perahu, dan bunga melati. Gedung paviliun melambangkan Gedung pemerintah pusat kota Tangerang, sedangkan kesepuluh pintu melambangkan Sepuluh Pintu Air Tangerang. Perahu melambangkan Perahu Naga, yang merupakan salah satu jenis olahraga yang dilakukan di Sungai Cisadane. Bunga melati memperingati kepahlawanan Nyi Mas Melati, pahlawan wanita setempat yang berjuang melawan penjajah Belanda pada abad ke-19."
         },
         {
             "id": 25,
-            "nama_batik": "Batik Kaibonan",
-            "image": "https://i2.wp.com/riverspace.org/wp-content/uploads/2021/03/kaibonan.jpg?resize=700%2C874&ssl=1",
+            "nama_batik": "Batik Leuit Sijimat",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/Banten.png",
             "daerah": "Banten",
-            "makna": "Motif batik Banten ini mendapatkan inspirasi corak dari sebuah bangunan berupa pagar yang mengelilingi Keraton Istana Banten."
+            "makna": "Motif ini mencerminkan benda-benda dan kegiatan kaum Baduy sehari-hari, yakni termasuk rumah panggung, petak sawah huma, halaman petak tempat menjemur beras, dan leuit tempat beras disimpan. Motif ini melambangkan hidup sederhana masyarkat Baduy, serta kuatnya hubungan antara budaya mereka dengan perlindungan alam sebagai kebijakan lokal."
         },
         {
             "id": 26,
-            "nama_batik": "Batik Kapurban",
-            "image": "https://i1.wp.com/riverspace.org/wp-content/uploads/2021/03/kapurban.jpg?resize=750%2C559&ssl=1",
+            "nama_batik": "Batik Singayaksa",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2-4.png",
             "daerah": "Banten",
-            "makna": "Corak dasar dari batik Banten kapurban ini berbentuk ketupat dengan hiasan beberapa bunga., variasi motif berbentuk pigura spiral dan booh segitiga berbentuk bunga. Untuk bagian warna pada pinggiran motif dasar pigura hitam dan jingga, sementara booh berwarna hitam."
+            "makna": "Motif Singayaksa berasal dari nama tempat Sultan Hasanuddin berdoa kepada Allah agar memberinya petunjuk mengenai tempat terbaik baginya untuk mendirikan istananya. Motif ini melambangkan harapan untuk mendapatkan petunjuk dari Ilahi dalam hidup, sehingga dapat mengambil keputusan dengan baik dan benar."
         },
         {
             "id": 27,
-            "nama_batik": "Batik Kawangsan",
-            "image": "https://i0.wp.com/riverspace.org/wp-content/uploads/2021/03/kawangsan.jpg?w=636&ssl=1",
+            "nama_batik": "Batik Srimanganti",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/3-4.png",
             "daerah": "Banten",
-            "makna": "Motif batik Banten Kawangsan ini berbentuk bunga bergerigi dengan variasi motif daun dan buah, serta motif dasarnya berupa belah ketupat dan lingkaran polos. Untuk unsur warna yang digunakan pada motif ini antara lain biru sebagai warna dasar, cokelat pada motif daun dan cokelat tua pada booh."
-        },
-        {
-            "id": 28,
-            "nama_batik": "Batik Kasatriaan",
-            "image": "https://i1.wp.com/riverspace.org/wp-content/uploads/2021/03/kasatriaan.jpg?resize=600%2C753&ssl=1",
-            "daerah": "Banten",
-            "makna": "Motif kesatriaan batik Banten ini diambil dari sebuah perkampungan tempat belajar agama di pesantren lingkungan Kesultanan Banten."
-        },
-        {
-            "id": 29,
-            "nama_batik": "Batik Mandalikan",
-            "image": "https://i2.wp.com/riverspace.org/wp-content/uploads/2021/03/mandalikan.jpg?w=262&ssl=1",
-            "daerah": "Banten",
-            "makna": "Batik Banten motif mandalikan ini berbentuk belah ketupat dengan ornamen bunga yang ada ditengah-tengah sebuah bintang. Variasi motif bintang dalam kotak rantai dan booh motif dasarnya berbentuk segitiga bergerigi lapis tiga. Sedangkan untuk unsur warna menggunakan tiga warna yakni kren sebagai warna dasar, abu-abu pada motif bintang, dan warna cokelat tua pada rantai dan booh. Nama mandalikan sendiri diambil dari gelar nama salah satu pangeran Banten, yakni Pangeran Mandalikan."
+            "makna": "Nama motif Srimanganti berasal dari nama aula Istana yang bersambungan dengan gerbang, tempat tamu kerajaan menunggu sang Sultan siap menyambut mereka. Kata ‘sri’ berarti ‘raja’, sedangkan ‘manganti’ berarti ‘menanti’. Motif ini melambangkan kesempatan besar yang ada di depan nanti, yang merupakan jalan menuju masa depan yang gemilang."
         },
         {
             "id": 30,
-            "nama_batik": "Batik Gurda (Garuda)",
-            "image": "https://batik-tulis.com/wp-content/uploads/2014/10/Gambar-Batik-Yogyakarta-motif-Semen-Garuda.jpg",
+            "nama_batik": "Batik Kawung Mataram",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/8.png",
             "daerah": "Yogyakarta",
-            "makna": "Batik yogyakarta motif gurda atau garuda umumnya dipadu dengan motif batik lainya seperti motif batik sawat dan dikenal dengan nama sawat gurdo. Motif Gurda lebih mudah dimengerti karena disamping bentuknya yang sederhana juga gambarnya sangat jelas karena tidak terlalu banyak variasinya. Kata gurda berasal dari kata garuda, yaitu nama sejenis burung besar yang menurut pandangan hidup orang Jawa khususnya Yogyakarta mempunyai kedudukan yang sangat penting. Bentuk motif gurda ini terdiri dari dua buah sayap (lar) dan ditengah-tengahnya terdapat badan dan ekor. Menurut orang Yogyakarta burung ini dianggap sebagai binatang yang suci.            "
+            "makna": "Motif Kawung diciptakan oleh Sultan Agung Hanyokrokusumo dari Kerajaan Mataram (1593-1645) sebagai hadiah bagi putranya ketika ia turun tahta dan menobatkan putranya tersebut. Motif ini mengandung nilai-nilai filsafat yang mendalam: ia melambangkan manifestasi Empat Daya Utama di alam semesta (angin, air, api, dan tanah). Ia juga merupakan pengingat halus bahwa seorang pemimpin harus menguasai empat kemampuan berkomunikasi: kemampuan untuk berkomunikasi dengan Tuhan, berkomunikasi secara internal dengan diri sendiri, berkomunikasi dengan sesame manusia, dan berkomunikasi dengan alam. Motif Kawung mengandung harapan agar sang penggunanya tumbuh menjadi manusia yang hebat dan berguna di masyarakat. "
         },
         {
-            "id": 31,
-            "nama_batik": "Batik Semen",
-            "image": "https://batik-tulis.com/wp-content/uploads/2014/10/Gambar-Batik-Yogyakarta-motif-Semen-Sido-Mukti.jpg",
+            "id": 30,
+            "nama_batik": "Batik Wirasat",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/3-7.png",
             "daerah": "Yogyakarta",
-            "makna": "Batik yogyakarta motif semen dimaknai sebagai penggambaran dari sebuah “kehidupan yang bersemi” yaitu suatu kehidupan yang menggambarkan kemakmuran dan perkembangan yang kearah lebih baik dalam konteks positif. Ornamen pokok pada motif-motif semen memiliki beberapa jenis yaitu: Yang pertama adalah ornamen yang berkaitan dengan daratan, contoh: flora aka tumbuh-tumbuhan atau fauna yang berkaki empat. Kedua yaitu ornamen yang berkaitan dengan udara, Contoh: fauna seperti burung garuda, dan awan mega mendung. Sedangkan yang ketiga adalah ornamen yang berkaitan dengan lautan atau air, seperti hewan ikan, ular, dan katak. Jenis ornamen tersebut kemungkinan besar memiliki keterkaitan dengan pemahaman Triloka atau Tribawono. Pemahaman tersebut merupakan suatu ajaran tentang adanya 3 dunia, yaitu; dunia langit yang ditempati para dewa dan yang suci, selanjutnya dunia tengah yang merupakan tempat tinggal manusia menjalani kehidupan, serta dunia bawah yang merupakan tempat para manusia yang memilih jalan hidup yang dipenuhi angkara murka."
+            "makna": "Wirasat atau ilham merupakan berkah dari Tuhan. Ilham ini dilambangkan dengan cahaya yang berpendar bagai bunga ke empat arah. Motif ini merupakan lambang harapan dan keyakinan akan makna hidup, serta kekuatan hati dalam mengambil keputusan dalam hidup."
         },
         {
-            "id": 32,
-            "nama_batik": "Batik Truntum",
-            "image": "https://batik-tulis.com/wp-content/uploads/2014/10/Gambar-Batik-Yogyakarta-motif-nitik-truntum.jpg",
+            "id": 30,
+            "nama_batik": "Batik Abimanyu",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/ayyy.png",
             "daerah": "Yogyakarta",
-            "makna": "Batik yogyakarta motif truntum diciptakan oleh Kanjeng Ratu Kencana (Permaisuri Sunan Paku Buwana III) bermakna cinta yang tumbuh kembali. Beliau menciptakan motif ini sebagai simbol cinta yang tulus tanpa syarat, abadi dan semakin lama terasa semakin subur berkembang (tumaruntum). Karena maknanya, kain Batik yogyakarta motif truntum biasanya dipakai oleh orang tua pengantin pada hari pernikahan. Harapannya yaitu agar cinta kasih para mempelai semakin tumaruntum. Kadang dimaknai juga bahwa orang tua berkewajiban untuk “menuntun” kedua mempelai untuk memasuki kehidupan baru."
+            "makna": "Motif ini merupakan motif klasik Kerajaan Mataram. Ia mengandung harapan agar penggunanya menjadi seorang yang berani dan bijaksana, seperti ksatria Jawa yang terdapat dalam kisah epic Mahabharata, Pangeran Abimanyu."
         },
         {
-            "id": 33,
-            "nama_batik": "Batik Nitik",
-            "image": "https://batik-tulis.com/wp-content/uploads/2014/10/Gambar-Batik-Yogyakarta-motif-nitik-randu-seling.jpg",
+            "id": 30,
+            "nama_batik": "Batik Parang Rusak",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-8.png",
             "daerah": "Yogyakarta",
-            "makna": "Batik yogyakarta motif nitik sebenarnya berasal dari pengaruh luar negeri yang berkembang di pantai utara laut Jawa, sampai akhirnya berkembang pula di pedalaman menjadi suatu motif yang sangat indah. Pada saat pedagang dari Gujarat datang di pantai utara pulau Jawa, dalam dagangannya terdapat kain tenun dan bahan sutera khas Gujarat. Motif dan kain tersebut berbentuk geometris dan sangat indah, dibuat dengan teknik dobel ikat yang disebut “Patola” yang dikenal di Jawa sebagai kain “cinde”. Warna yang digunakan adalah merah dan biru indigo. Selain terdiri dari bujur sangkar dan persegi panjang, Nitik dari Yogyakarta juga diperindah dengan hadirnya isen-isen batik lain seperti, cecek (cecek 7, cecek 3), bahkan ada juga yang diberi ornamen batik dengan memasukkan Klowong maupun Tembokan, sehingga penampilannya baik bentuk dan warnanya lain dari motif Jlamprang Pekalongan."
-        },
-        {
-            "id": 34,
-            "nama_batik": "Batik Lereng",
-            "image": "https://batik-tulis.com/wp-content/uploads/2014/10/Gambar-Batik-Yogyakarta-motif-Lereng.jpg",
-            "daerah": "Yogyakarta",
-            "makna": "Batik yogyakarta motif lereng berupa pola baris diagonal di antara motif parang. Selain itu, banyak pola yang hanya berupa deretan garis diagonal sempit dipenuhi dengan seluruh lereng dari pola kecil. Batik yogyakarta motif lereng merupakan salat satu pola lama yang disediakan untuk keluarga kerajaan. Salah satu motif lereng yang sering ditemui adalah udang liris (hujan ringan).  Batik yogyakarta motif lereng melambangkan kesuburan, harapan untuk kemakmuran, tekad, untuk memiliki keberanian untuk melaksanakan apa yang penting bagi bangsa dan rakyat."
-        },
-        {
-            "id": 35,
-            "nama_batik": "Batik Ceplok, Grompol",
-            "image": "https://batik-tulis.com/wp-content/uploads/2014/10/Gambar-Batik-Yogyakarta-motif-ceplok-parang.jpg",
-            "daerah": "Yogyakarta",
-            "makna": "Batik yogyakarta motif ceplok ini mencakup berbagai macam desain geometris, biasanya berdasar pada bentuk bunga mawar yang melingkar, bintang ataupun bentuk kecil lainnya, membentuk pola yang simetris secara keseluruhan pada kain batik yogyakarta.  Grompol dalam kosakata Jawa memiliki arti berkumpul atau bersatu. Melambangkan harapan orang tua akan semua hal yang baik berkumpul, yaitu rejeki, kerukunan hidup, kebahagiaan, dan ketentraman untuk kedua mempelai dan keluarga pengantin. Selain itu, grompol juga bermakna harapan, supaya kedua mempelai dapat berkumpul menjadi satu atau untuk mengingat keluarga besarnya saat ke mana pun mereka pergi. Harapan yang lain adalah agar semua sanak saudara dan para tamu undangan dapat menyatu sehingga pesta pernikahan berjalan meriah."
+            "makna": "Selain dari keberanian dan ketegaran, motif ini juga menggambarkan bahwa penggunanya memiliki semangat tak terpatahkan, seperti yang dilambangkan oleh motif bergelombang yang mirip lengkungan pada Keris pusaka Jawa maupun lengkungan ombak laut. Pengguna parang rusak adalah jiwa mulia yang dapat mengendalikan gelombang godaan yang ada dalam kehidupan manusia sehari-hari. Oleh sebab itu, motif ini khusus untuk keluarga kerajaan dan bangsawan."
         },
         {
             "id": 36,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Ceplok Gayo",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/1-1.png",
             "daerah": "Aceh",
-            "makna": "asda"
+            "makna": "Variasi warna menunjukkan perbedaan dalam masyarakat yang perlu dihargai dan diterima. Pemakai motif ini diharapkan memiliki pesona pribadi yang kuat yang berpegang teguh pada agama dan tradisi, tetapi selalu toleran dan hormat dalam kehidupan sosial. Simbol Ceplok Gayo menandakan keindahan hidup bersama dalam masyarakat yang damai.            "
         },
         {
             "id": 37,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kerawang Tegak",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/2-1.png",
             "daerah": "Aceh",
-            "makna": "asda"
+            "makna": "Motif Kerawang Tegak melambangkan seseorang yang memiliki kesadaran yang kuat akan Tuhan. Warna putih melambangkan kesucian, kuning melambangkan kemuliaan, dan hitam melambangkan kekuatan dan ketulusan. Warna-warna ini ditemukan di rumah adat Gayo Aceh. Pengguna batik diharapkan menunjukkan pesona pribadi yang religius, luhur, dan memiliki kemurnian hati dan pikiran.            "
         },
         {
             "id": 38,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kerawang Datar",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/3-2.png",
             "daerah": "Aceh",
-            "makna": "asda"
+            "makna": "Motif ini melambangkan perwujudan nilai-nilai agama dalam interaksi sehari-hari dalam pekerjaan dan masyarakat. Pengguna motif ini diharapkan menjadi pria yang mencintai perdamaian, memiliki karakter yang mulia, pembawaan yang terkendali, dinamis, tidak pernah menyerah pada tantangan, dan membawa manfaat bagi lingkungannya. Kuning melambangkan kemuliaan, dan merah melambangkan kekuatan dan ketahanan."
         },
         {
             "id": 39,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pintu Aceh",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/10.png",
             "daerah": "Aceh",
-            "makna": "asda"
-        },
-        {
-            "id": 40,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Aceh",
-            "makna": "asda"
-        },
-        {
-            "id": 41,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Aceh",
-            "makna": "asda"
+            "makna": "Motif ini terinspirasi dari arsitektur tradisional Aceh yang memiliki pintu yang pendek, tetapi bagian dalamnya cukup luas. Motif ini mewakili kepribadian orang Aceh yang selalu rendah hati dan sabar. Selain itu, motif ini juga menggambarkan bahwa orang Aceh tidak mudah terbuka kepada orang asing, konservatif, tetapi sangat baik kepada siapa pun yang mengenal mereka."
         },
         {
             "id": 42,
-            "nama_batik": "Batik Gorga Simeol- Meol",
-            "image": "https://merahputih.com/media/8d/2b/42/8d2b42243b9400950bf646ca253d2187.png",
-            "daerah": "Sumatera Utara",
-            "makna": "Gorga Simeol-meol adalah motif yang terdiri dari sulur-sulur tumbuhan. Itu dianggap sebagai simbol kegembiraan, serta doa untuk kesehatan dan umur panjang. Motif ini juga melambangkan harapan memperoleh banyak anak untuk mempertahankan garis keturunan keturunan. Motif pengisi mencerminkan solidaritas, integritas terhadap janji, dan gotong royong untuk kepentingan bersama, yang merupakan kode etik masyarakat Batak."
-        },
-        {
-            "id": 43,
             "nama_batik": "Batik Desa Na Ualu",
-            "image": "https://www.dictio.id/uploads/db3342/original/3X/0/8/08acc9cd2ce94dfb3db3dce283afcc358eed6261.jpeg",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/1-2.png",
             "daerah": "Sumatera Utara",
-            "makna": "Motif Gorga Desa Na Ualu merupakan lambang delapan mata angin. Ini digunakan sebagai bagian dari pengaturan almanak dalam tradisi Batak kuno untuk menentukan waktu yang tepat untuk menanam padi, menangkap ikan, mengadakan pesta, dll. Simbol ini juga berkaitan dengan kegiatan ritual kehidupan seseorang, serta menceritakan rejeki keluarga."
+            "makna": "Motif Desa Na Ualu adalah simbol dari delapan arah mata angin. Motif dari desa Na Ualu digunakan sebagai bagian dari pengaturan almanak dalam tradisi Batak kuno untuk menentukan waktu yang tepat untuk menanam padi, menangkap ikan, mengadakan pesta, dll. Simbol ini juga berkaitan dengan kegiatan ritual kehidupan seseorang, serta menceritakan kekayaan keluarga."
         },
         {
-            "id": 44,
-            "nama_batik": "Batik Penari Melayu",
-            "image": "https://2.bp.blogspot.com/-9VFiSTFo_s4/WpDuW9bPN3I/AAAAAAAAALg/p8h6r_DhQnspoav4gPsTW98zoqb2edDowCLcBGAs/s1600/motif%2Bpenari%2Bmelayu%2B2.JPG",
-            "daerah": "Sumatera Utara",
-            "makna": "Penari Melayu menggambarkan tarian tradisional etnis Melayu di Sumatera Utara. Hal ini juga mewakili hubungan yang harmonis dan saling menghormati antara suami dan istri dalam keluarga. Setiap gender menjunjung tinggi tanggung jawab mereka dalam masyarakat."
-        },
-        {
-            "id": 45,
+            "id": 42,
             "nama_batik": "Batik Desa Na Tolu",
-            "image": "https://docplayer.info/docs-images/93/111224238/images/6-0.jpg",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/2-2.png",
             "daerah": "Sumatera Utara",
-            "makna": "Pola Desa Na Tolu melambangkan filosofi Batak tentang keberadaan dan keharmonisan dalam masyarakat Batak. Ini adalah kode yang melambangkan aturan saling menghormati, serta kode etik hubungan dengan anggota keluarga, khususnya klan pasangan dan mertua."
+            "makna": "Pola Desa Na Tolu melambangkan filosofi keberadaan dan harmoni Batak dalam masyarakat Batak. Ini adalah kode yang melambangkan aturan saling menghormati, serta kode etik hubungan dengan anggota keluarga, khususnya klan pasangan dan mertua seseorang."
         },
         {
-            "id": 46,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "id": 42,
+            "nama_batik": "Batik Gorga Simeol-Meol",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/Sumatra-Utara-motif.png",
             "daerah": "Sumatera Utara",
-            "makna": "asda"
+            "makna": "Gorga Simeol-meol adalah motif yang terdiri dari sulur tanaman ini dianggap sebagai simbol sukacita, serta doa untuk kesehatan dan umur panjang. Motif ini juga melambangkan harapan mendapatkan banyak anak untuk mempertahankan keturunannya. Motif filler mencerminkan solidaritas, menepati janji, dan gotong royong untuk kepentingan bersama, yang merupakan kode etik masyarakat Batak."
         },
         {
-            "id": 47,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "id": 42,
+            "nama_batik": "Batik Penari Melayu",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/9-1.png",
             "daerah": "Sumatera Utara",
-            "makna": "asda"
+            "makna": "Penari Melayu menggambarkan tarian tradisional etnis Melayu di Sumatera Utara. Motif ini juga mewakili hubungan yang harmonis dan saling menghormati antara suami dan istri dalam keluarga. Setiap gender menjunjung tinggi tanggung jawab mereka dalam masyarakat."
         },
         {
             "id": 48,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Awan Larat Riau",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1.png",
             "daerah": "Riau",
-            "makna": "asda"
+            "makna": "Motif ini biasanya dikaitkan dengan kelembutan, kebijaksanaan, dan pengetahuan diri. Karakteristik ini adalah pendidikan moral dasar yang diperkenalkan oleh orang tua Riau kepada anak-anak mereka. Bunga dan kuncup adalah simbol cinta, kemurnian, ketulusan, kerendahan hati, persahabatan, dan persaudaraan. Orang tua berharap saran yang terkandung dalam motif ini dapat selalu diingat dan dipraktikkan oleh anak-anak mereka."
         },
         {
             "id": 49,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pucuk Rebung Riau",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2.png",
             "daerah": "Riau",
-            "makna": "asda"
+            "makna": "Pucuk Rebung melambangkan tekad hati dalam mencapai tujuan, keberuntungan, dan harapan. Ini juga mewakili hati dan semangat persatuan yang terbuka di masyarakat Riau. Motif ini diklasifikasikan sebagai motif Melayu, yang mewakili pohon bambu yang tidak mudah roboh, bahkan ketika terkena angin kencang."
         },
         {
             "id": 50,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kasih Tak Sampai",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/7.png",
             "daerah": "Riau",
-            "makna": "asda"
+            "makna": "Kasih Tak Sampai’ adalah ungkapan dalam bahasa Indonesia yang merujuk pada dua arti berbeda, yakni “cinta dalam kesabaran” dan “cinta tak berbalas”. Dalam konteks Batik Riau, motif ini berarti kasih sayang orang tua terhadap anak. Orang tua Riau diharapkan tidak merusak dan menunjukkan cinta yang berlebihan kepada anak-anak mereka untuk membangun mental dan ketahanan yang kuat."
         },
         {
             "id": 51,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tabir Tanjung",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/3.png",
             "daerah": "Riau",
-            "makna": "asda"
+            "makna": "Bunga Tanjung adalah jenis bunga pohon ceri, yang banyak ditemukan di Indonesia. Diadopsi dari tekstil tenun Riau (Songket), motif ini berarti ketulusan, keramahan, dan sikap ramah terhadap tamu."
         },
         {
             "id": 52,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Riau",
-            "makna": "asda"
+            "nama_batik": "Batik Ikan Tambal",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-1.png",
+            "daerah": "Kepulauan Riau",
+            "makna": "Kata “Ikan” mengacu pada ikan yang sesungguhnya. Makna filosofis dari Ikan Tambal adalah kebersamaan, kesederhanaan dalam kehidupan sosial, dan memperlakukan orang lain secara adil, terlepas dari kelas sosialnya. Pola gelombang menggambarkan naik turunnya kehidupan masyarakat dan berisi nasihat untuk menghadapi masalah sosial dengan kesabaran"
+        },
+        {
+            "id": 52,
+            "nama_batik": "Batik Tikar Natuna",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/11/page-9.png",
+            "daerah": "Kepulauan Riau",
+            "makna": "Motif Tikar Natuna diadaptasi dari pembuatan tikar pandan tradisional di Kepulauan Natuna. Tradisi menenun tikar memiliki makna khusus dan telah dipertahankan selama berabad-abad oleh masyarakat setempat di pulau Natuna. Hal ini adalah bentuk kreativitas tradisional budaya Natuna yang masih dapat ditelusuri hingga hari ini. Penciptaan tekstil batik ini juga bertujuan untuk meningkatkan kesadaran masyarakat lokal tentang tikar anyaman pandan tradisional."
+        },
+        {
+            "id": 52,
+            "nama_batik": "Batik Gonggong Beruntun",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/Kepulaun-Riau.png",
+            "daerah": "Kepulauan Riau",
+            "makna": "Motif ini menggambarkan bahwa seseorang harus mempertahankan sikap positif dan berbicara dengan kata-kata yang baik sehingga ia dapat mencapai nasib baik, kesuksesan, dan kehidupan yang mulia."
+        },
+        {
+            "id": 52,
+            "nama_batik": "Batik Gonggong Siput",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2-1.png",
+            "daerah": "Kepulauan Riau",
+            "makna": "Gonggong (Strombus Turturella) adalah salah satu jenis siput laut yang ditemukan di sekitar wilayah pesisir Pulau Bintan, Kepulauan Riau. Gonggong adalah kuliner lokal di Tanjungpinang. Motif ini juga mencerminkan wilayah geografis Provinsi Kepulauan Riau (Kepulauan Riau) yang 95% darinya adalah lautan."
         },
         {
             "id": 53,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tanah Liek",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/3-4.png",
             "daerah": "Sumatera Barat",
-            "makna": "asda"
+            "makna": "Kata “Tanah Liek” mengacu pada tanah liat dalam bahasa Minang. Batik Tanah Liek juga dikenal sebagai batik tanah liat, yang merupakan kain batik khas yang berasal dari Minangkabau. Batik ini menggunakan tanah liat sebagai pewarna di samping tanaman jengkol, rambutan, dan gambir. Kain itu pertama direndam selama seminggu dengan tanah liat, kemudian dicat dengan pewarna alami lainnya setelah dicuci. Warna dasar batik ini tidak biasa, yaitu coklat gelap teduh, namun memancarkan aura keanggunan."
         },
         {
             "id": 54,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Rangkiang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/2-3.png",
             "daerah": "Sumatera Barat",
-            "makna": "asda"
+            "makna": "Kata “Rangkiang” mengacu pada lumbung padi dalam bahasa Minangkabau. Ini melambangkan beras sebagai sumber makanan pokok bagi masyarakat. Motif ini menyiratkan aset yang dikelola dengan baik dan kehidupan yang makmur, karena melambangkan beras sebagai sumber makanan pokok bagi masyarakat nusantara."
         },
         {
             "id": 55,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Keluak Daun Pakis",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/1-3.png",
             "daerah": "Sumatera Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 56,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sumatera Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 57,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sumatera Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 58,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sumatera Barat",
-            "makna": "asda"
+            "makna": "Kata “Keluak” adalah bahasa Minang yang berarti bengkok atau kusut. Motif Keluak Daun Pakis terinspirasi oleh tanaman pakis kusut yang umum dan mudah ditemukan di Indonesia, terutama di tepi sungai. Tanaman pakis mewakili sikap bijak dan tenang dalam menghadapi tantangan dalam hidup. Ini adalah simbol kesuburan dan kemakmuran bagi kehidupan seseorang."
         },
         {
             "id": 59,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kain Cual",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-3.png",
             "daerah": "Bangka Belitung",
-            "makna": "asda"
+            "makna": "Tradisi tekstil cual telah ada sejak abad ke-17. Kata Cual mengacu pada tenunan tekstil, yang pertama kali ditemukan oleh komunitas Muntok di Bangka Barat. Motif Cual Batik diambil dari tumbuhan dan hewan. Saat ini, produsen menggabungkan tulisan tangan Batik dalam produksi tekstil Cual. Motif Kain Cual dengan motif bunga melambangkan kemurnian, keanggunan, dan harapan baik bagi pengguna."
         },
         {
             "id": 60,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Biji Kopi",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/11/7.png",
             "daerah": "Bangka Belitung",
-            "makna": "asda"
+            "makna": "Motif biji kopi adalah motif yang merujuk pada distrik kopi lokal di Kabupaten Manggar di pulau Belitung. Selain pusat perkebunan kopi, Belitung Timur dikenal karena tradisi pembuatan kopi yang mengakar. Para Wisatawan dianjurkan mencicipi segelas kopi Bangka yang dibuat dengan kopi pilihan dan diracik dengan istimewa."
         },
         {
             "id": 61,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Daun Simpor",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/11/3.png",
             "daerah": "Bangka Belitung",
-            "makna": "asda"
+            "makna": "Motif ini terinspirasi oleh tanaman Simpor (Dillenia Suffruticosa) yang merupakan tanaman khas Belitung. Daun Simpor biasanya digunakan untuk membungkus makanan karena memiliki aroma yang khas. Tanaman Simpor melambangkan kebijaksanaan dan cinta universal. Perbedaan bentuk tanaman Simpor yang berbeda menandakan regenerasi kehidupan, keharmonisan, dan saling menghormati antara yang muda dan yang tua."
         },
         {
             "id": 62,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Daun Lada Hitam",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/4-3.png",
             "daerah": "Bangka Belitung",
-            "makna": "asda"
-        },
-        {
-            "id": 63,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Bangka Belitung",
-            "makna": "asda"
-        },
-        {
-            "id": 64,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Bangka Belitung",
-            "makna": "asda"
+            "makna": "Motif lada hitam mewakili komoditas utama provinsi Bangka Belitung. Lada Hitam adalah simbol kekayaan dan kemakmuran masyarakat Bangka Belitung. Motif ini juga menggambarkan identitas historis Bangka Belitung sebagai salah satu rute rempah lada sejak abad ke-16."
         },
         {
             "id": 65,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Besurek Rafflesia",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-2.png",
             "daerah": "Bengkulu",
-            "makna": "asda"
+            "makna": "Istilah “Besurek” mengacu pada tekstil yang berisi surat atau prasasti. Seni batik Besurek di Bengkulu diperkenalkan oleh pedagang batik dan seniman dari Demak. Ini bisa dilacak dari sejarah Kesultanan Demak, yang merupakan Kerajaan Islam pertama dan terbesar di Pulau Jawa (1475-1548). Pola motif terdiri dari huruf Kaganga atau huruf asli Bengkulu, dikombinasikan dengan kaligrafi Arab. Motif ini juga menggambarkan keindahan bunga Rafflesia Arnoldi, spesies bunga langka yang tumbuh di daerah Bengkulu."
         },
         {
             "id": 66,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Besurek Rembulan",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/5-2.png",
             "daerah": "Bengkulu",
-            "makna": "asda"
+            "makna": "Besurek Rembulan adalah tekstil batik khas yang polanya merupakan kombinasi dari kaligrafi Arab dan motif bulan purnama (Rembulan). Batik ini menggambarkan pujian kepada Tuhan yang menciptakan alam semesta yang indah. Kain ini biasanya dipakai oleh pengantin dalam upacara siraman sebelum pernikahan."
         },
         {
             "id": 67,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kaganga Tanah Rejang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2-2-1.png",
             "daerah": "Bengkulu",
-            "makna": "asda"
-        },
-        {
-            "id": 68,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Bengkulu",
-            "makna": "asda"
-        },
-        {
-            "id": 69,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Bengkulu",
-            "makna": "asda"
-        },
-        {
-            "id": 70,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Bengkulu",
-            "makna": "asda"
+            "makna": "Batik Kaganga adalah batik khas dari daerah Rejang, Bengkulu. Batik ini dibuat sekitar 1985-1990. Jika Batik Besurek menggabungkan motif kaligrafi Arab, maka batik Kaganga mengambil inspirasi dari surat-surat Kaganga, aksara kuno suku Rejang. Kain ini juga menggambarkan motif tanaman seperti bunga cengkeh, bunga Magnolia Melayu (Cempaka), dan bunga Rafflesia Arnoldi yang langka, yang merupakan bunga endemik khas di tanah Rejang."
         },
         {
             "id": 71,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Durian Pecah",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/2-4.png",
             "daerah": "Jambi",
-            "makna": "asda"
+            "makna": "Motif Durian pecah menggambarkan dua bagian buah durian, yang masih saling bertautan di pangkal batang. Paruh pertama dari buah berarti fondasi iman dan kesalehan. Paruh kedua menandakan penguasaan sains dan teknologi. Arti keseluruhan dari motif ini adalah bahwa semua karya harus didasarkan pada iman, kebijaksanaan moral, dan didukung oleh sains dan teknologi untuk mendapatkan hasil yang maksimal dan memuaskan."
         },
         {
             "id": 72,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Merak Ngeram",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/7-4.png",
             "daerah": "Jambi",
-            "makna": "asda"
+            "makna": "Motif merak yang mengeram memiliki makna yang sangat dalam yang mengacu pada pengorbanan dan kasih sayang seorang ibu. Motif ini menandakan rasa hormat terhadap ibu dan hubungan yang harmonis antara orang tua dan anak-anak."
         },
         {
             "id": 73,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Angsa Duo",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/1-4.png",
             "daerah": "Jambi",
-            "makna": "asda"
-        },
-        {
-            "id": 74,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Jambi",
-            "makna": "asda"
-        },
-        {
-            "id": 75,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Jambi",
-            "makna": "asda"
-        },
-        {
-            "id": 76,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Jambi",
-            "makna": "asda"
+            "makna": "Menurut legenda, motif batik duo Angso adalah sepasang angsa yang diyakini telah memimpin Puteri Mayang Mangurai dan Orang Kayo Hitam dalam pencarian tempat tinggal atau membuka negara baru, yang sekarang dikenal sebagai Kota Jambi. Dalam versi lain, itu mewakili karakter orang Jambi sebagai masyarakat yang sederhana dan konvensional. Sejarah mencatat motif ini telah ada sejak abad 14."
         },
         {
             "id": 77,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Mahkota Siger",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/1-4.png",
             "daerah": "Lampung",
-            "makna": "asda"
+            "makna": "Siger adalah nama mahkota bagi wanita bangsawan Lampung di zaman kuno. Motif ini adalah simbol feminitas, kekuatan, dan keanggunan seorang wanita. Bagi masyarakat Lampung, perempuan sangat terlibat dalam semua kegiatan, terutama dalam kegiatan rumah tangga. Di belakang kelembutan wanita, ada kerja keras, kemandirian, kegigihan, dan kualitas feminin. Meskipun masyarakat Lampung sendiri mengikuti pola garis patrilineal atau bapak, sosok perempuan itu penting, baik sebagai inspirasi bagi anak-anak maupun pendorong kesuksesan hidup pasangan mereka."
         },
         {
             "id": 78,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pohon Hayat",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/2-3.png",
             "daerah": "Lampung",
-            "makna": "asda"
+            "makna": "Motif batik di Lampung didominasi oleh akulturasi budaya Buddha dan Islam, misalnya, Motif Hayat atau juga dikenal sebagai Pohon Kehidupan. Motif pohon kehidupan memiliki makna filosofis yang mendalam bagi masyarakat Lampung. Pohon kehidupan menandakan Pohon Surga, kekuatan abadi, maskulinitas, dan simbol kehidupan. Motif ini biasanya dipakai sebagai sarung untuk wanita."
         },
         {
             "id": 79,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Gamolan",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/3-3.png",
             "daerah": "Lampung",
-            "makna": "asda"
+            "makna": "Motif ini menggambarkan Gamolan, alat musik bambu dari Lampung yang berbeda dari gamelan Jawa. Motif batik ini dibuat sebagai upaya untuk mempromosikan alat musik lokal ke masyarakat luas. Motif gamolan dapat ditemukan di Lampung Barat dan Way Kanan."
         },
         {
             "id": 80,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Gajah Way Kambas",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/09/4-4.png",
             "daerah": "Lampung",
-            "makna": "asda"
-        },
-        {
-            "id": 81,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Lampung",
-            "makna": "asda"
-        },
-        {
-            "id": 82,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Lampung",
-            "makna": "asda"
-        },
-        {
-            "id": 83,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Lampung",
-            "makna": "asda"
+            "makna": "Motifnya menggambarkan cagar alam Lampung, Way Kambas. Way Kambas adalah cagar alam yang dilindungi yang berfungsi sebagai pusat konservasi gajah. Untuk komunitas Hindu, gajah melambangkan Airlangga, yang merupakan dewa kebijaksanaan dan pengetahuan."
         },
         {
             "id": 84,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Bintik Tujuh",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/14.png",
             "daerah": "Sumatera Selatan",
-            "makna": "asda"
+            "makna": "Batik Palembang juga memiliki spesialisasi dalam memproduksi kain Batik dengan teknik khusus yaitu teknik ikat-celup (tie-dye). Motif Bintik Tujuh memiliki 7 bintik putih dan gradasi warna hijau sebagai hasil dari proses teknik pewarnaan ikat-celup. Motif ini juga melambangkan 7 lapisan langit. Selain itu, angka 7 dianggap sebagai angka suci dalam Islam."
         },
         {
             "id": 85,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Jumputan Bintang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/1-6.png",
             "daerah": "Sumatera Selatan",
-            "makna": "asda"
+            "makna": "Kota Palembang terkenal dengan kain batiknya yang unik, yang diproduksi dengan menggunakan teknik pewarnaaan ikat/celup. Kata Jumputan berasala dari makna “menjumput” yaitu bagian  dari proses pewarnaan kain dengan mengikat sebagian kain dan mencelupnya ke dalam larutan warna. Sedangkan kata Bintang terinspirasi oleh benda langit dan penciptaan alam semesta. Proses pembuatan tekstil yang indah ini membutuhkan banyak kesabaran dan detail kecil untuk mendapatkan pola bintang yang diinginkan pada tekstil."
         },
         {
             "id": 86,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Jupri Kembang Teh",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/5-6.png",
             "daerah": "Sumatera Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 87,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sumatera Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 88,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sumatera Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 89,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sumatera Selatan",
-            "makna": "asda"
+            "makna": "Jupri Kembang Teh menggambarkan sulur tanaman teh yang tumbuh di dataran tinggi Sumatera Selatan. Motif Palembang sangat dipengaruhi oleh budaya Islam, seperti motif tanaman dan bunga, dengan gaya ornamen Melayu yang kuat."
         },
         {
             "id": 90,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Buketan Bali",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/3-1.png",
             "daerah": "Bali",
-            "makna": "asda"
+            "makna": "Buketan Bali merupakan desain karangan bunga. Nama ini berasal dari bahasa Perancis, dan pertama kali diproduksi di Indonesia pada tahun 1880 oleh seorang pengusaha batik wanita dari Belanda bernama Cristina Van Zuylen. Batik adalah sesuatu yang keren dan eksotis, dan bahasa Perancis selalu menandakan sesuatu yang dianggap unik dan berkelas tinggi di Eropa abad ke-17, termasuk di Belanda. Motif ini berupa karangan atau rangkaian yang disusun di sepanjang sisi kain, seringkali dengan ditambahi hiasan tambahan berupa kupu-kupu atau burung phoenix untuk menambah nilai artistiknya."
         },
         {
             "id": 91,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Ulamsari Mas",
+            "image": "https://blog.mariberkarya.com/wp-content/uploads/2018/12/Oleh-Oleh-Khas-Bali-Batik-Bali-2.png",
             "daerah": "Bali",
-            "makna": "asda"
+            "makna": "Motif Batik Ulamsari Mas ini mungkin mudah dikenali oleh anak-anak muda jaman now. Corak pada Motif Batik Ulamsari Mas ini menampilkan gambar udang dan juga ikan. Motif tersebut menggambarkan kekayaan alam yang ada di Bali. Hal itu juga bisa memberitahu kepada masyarakat secara luas bahwa bali tidak hanya indah. Bali tidak hanya tempat untuk berwisata atau berlibur. Bali juga sangat kaya akan sumber daya alamnya lho. Melalui motif inilah para pengrajin batik asal bali bisa menyampaikan itu semua kepada semua orang baik yang memakai maupun yang melihatnya."
         },
         {
             "id": 92,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Barong Bali",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/2.png",
             "daerah": "Bali",
-            "makna": "asda"
+            "makna": "Barong merupakan hewan mitos yang memiliki kekuatan supernatural. Hewan ini merupakan gabungan dari macan atau singa (badan, kaki, dan matanya), elang, gajah, dan naga (mulut menyeringai dengan lidah panjang). Hewan ini seringkali ditemukan dalam karya seni Jawa dan Bali sebagai perlambang kekuatan, kebenaran, dan kejantanan. Barong juga merupakan lambang falsafah bahwa manusia memiliki dua sisi. Kita harus mengendalikan hasrat buruk dan menahan diri dari godaan agar dapat berkembang sempurna sebagai manusia yang dewasa dan bjiak."
         },
         {
             "id": 93,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Penari Bali",
+            "image": "https://blog.mariberkarya.com/wp-content/uploads/2018/12/Oleh-Oleh-Khas-Bali-Batik-Bali-6.jpg",
             "daerah": "Bali",
-            "makna": "asda"
+            "makna": "Selain sebagai tempat wisata, bali juga identik dengan penarinya. Banyak sekali tarian khas bali yang ada di sana. Baik tarian dalam ritual, upacara maupun penyambutan. Pengrajin batik di bali juga ingin mengenalkan tarian bali itu melalui motif batik. Biar orang tidak hanya tau tari kecak saja, hehehe. Motif Batik Penari Bali ini menggambarkan seorang penari yang sedang memperagakan salah satu gerakan tarian khas bali. Biasanya yang sering digunakan sebagai motif batik ini adalah penari wanita."
         },
         {
             "id": 94,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Merak Abyorhokokai",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/4-1.png",
             "daerah": "Bali",
-            "makna": "asda"
+            "makna": "Batik bermotif merak ini menggambarkan keindahan burung tersebut sebagai titik fokus kain, dan gambar ini semakin diperindah dengan hiasan kelopak bunga yang lembut yang tampilannya mirip bunga kersen. Motif ini merupakan pengaruh dari budaya Jepang, dan menggambarkan semangat Bali sebagai Pulau Dewata."
         },
         {
             "id": 95,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pisang Bali",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/08/5-1.png",
             "daerah": "Bali",
-            "makna": "asda"
+            "makna": "Di masyarakat Bali, pisang merupakan lambang dari Amartha atau Air Keabadian dalam Wiswa Ongkara (angka 3 pada falsafah numerologi Bali). Versi lain menyatakan bahwa kata ‘pisang Bali’ berasal dari kata bahasa Jawa ‘pisan’ (‘lagi’) dan ‘bali’ (‘kembali’), yang jika disatukan berarti ‘selalu kembali’ atau ‘berulang’. Oleh sebab itu, motif batik ini biasanya diberikan seseorang kepada kekasihnya yang mengadakan perjalanan, dengan harapan agar sang kekasih dapat kembali dengan selamat. Ia juga merupakan pengingat akan air abadi yang selalu kembali, yakni bahwa kita selalu bereinkarnasi dan kembali sesuai dengan siklus hidup kita."
         },
         {
             "id": 96,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Anggrek Tewu",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2-1.png",
             "daerah": "Kalimantan Tengah",
-            "makna": "asda"
+            "makna": "Motif ini dibuat berdasarkan kearifan lokal dan falsafah di balik bunga Anggrek Tewu (“Anggrek Tebu”). Rakyat Kotawaringin Timur ingin meneladani gaya hidup anggrek tebu: Bunga ini terus bertumbuh dengan menempelkan diri pada pohon tanpa membunuh induk semangnya, melambangkan harmoni sosial masyarakat yang hidup bersama dan saling bermanfaat satu sama lain, tanpa saling menyakiti. Bunga ini melambangkah harapan Kotawaringin Timur untuk menjadi wilayah yang berkembang paling baik di Kalimantan Tengah."
         },
         {
             "id": 97,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Enggang Dayak",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-1.png",
             "daerah": "Kalimantan Tengah",
-            "makna": "asda"
+            "makna": "Motif Burung enggang melambangkan kedekatan masyarakat Dayak Indonesia dengan alam. Segala bagian tubuh burung enggang melambangkan kehebatan dan keagungan suku ini, sedangkan burung itu sendiri melambangkan perdamaian dan persatuan: Sayapnya yang kokoh melambangkan pemimpin yang selalu melindungi rakyatnya, sedangkan ekornya yang panjang dianggap sebagai tanda kemakmuran suku Dayak. Selain itu, burung enggang juga digunakan sebagai teladan kehidupan berkeluarga dan bermasyarakat. Ia melambangkan kasih tanpa syarat terhadap pasangan dan pendidikan anak sehingga menjadi manusia yang matang dan mandiri. Sangat perlu ditekankan bahwa suku Dayak Kalimantan sangat dekat dengan burung enggang. Burung ini selalu tampil dalam berbagai mitos dan kisah rakyat Dayak yang berbeda di semua daerah di pulau ini. Diantaranya, rakyat setempat meyakini bahwa burung enggang merupakan Panglima para Burung. Ia dianggap memiliki kekuatan supernatural dan hanya akan muncul di masa perang. Secara umum, burung ini dianggap sakral dan orang dilarang memburu, apalagi memakannya."
         },
         {
             "id": 98,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Gumin Tambun",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-1.png",
             "daerah": "Kalimantan Tengah",
-            "makna": "asda"
+            "makna": "Motif ini berasal dari pola yang diukir pada pintu utama rumah tradisional.  Dikatakan berasal dari motif mitologi Hindu, motif sulur melilit ini melambangkan keberuntungan, keberlimpahan, dan kemakmuran abadi karena ia dengan lembut mencegah keberuntungan dan kekayaan keluar dari rumah setelah memasuki pintu.  Ia melambangkan kedamaian pikiran, kelembutan, dan keagungan penggunanya.            "
         },
         {
             "id": 99,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kaharingan",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/Central-Kalimantan.png",
             "daerah": "Kalimantan Tengah",
-            "makna": "asda"
-        },
-        {
-            "id": 100,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Tengah",
-            "makna": "asda"
-        },
-        {
-            "id": 101,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Tengah",
-            "makna": "asda"
-        },
-        {
-            "id": 102,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Tengah",
-            "makna": "asda"
+            "makna": "Motif ini mewakili Kaharingan, yang merupakan nama lain “Pohon Kehidupan” dalam sistem keyakinan suku Dayak. Batang pohon ini melambangkan hubungan vertikal antara manusia dan Tuhan yang diyakini¬nya, sedangkan dahan dan daunnya melambangkan hubungan horizontal antar manusia serta antara manusia dengan makhluk-makhluk lain di bumi."
         },
         {
             "id": 103,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Rutun Penyu",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2.png",
             "daerah": "Kalimantan Timur",
-            "makna": "asda"
+            "makna": "Motif ini melambangkan kesederhanaan dan kerendahan hati. Menjalani hidup haruslah selaras dengan aliran alam semesta. Hidup akan menjadi lebih mudah jika kita tetap bersikap sewajarnya dan alami sesuai perintah Tuhan, dan mengambil langkah untuk mengikuti ketentuan tersebut."
         },
         {
             "id": 104,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tengkawang Ampiek",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/East-Kalimantan.png",
             "daerah": "Kalimantan Timur",
-            "makna": "asda"
+            "makna": "Motif ini menggambarkan ukiran kayu, yang disebut “ampiek” dalam bahasa Kutai. “Tengkawang” adalah pohon sejenis meranti merah (Dipterocarpaceae). Tanaman ini memiliki banyak manfaat bagi kesehatan, dan biasanya dipakai sebagai bahan makanan, kosmetika, maupun obat-obatan. Dengan banyaknya manfaat yang dihasilkannya, kaum Dayak juga banyak menggunakan daun pohon ini dalam upacara dan ritual mereka. Tanaman ini merupakan lambang kesuburan dan kebaikan alam semesta, yang merupakan aspek terpenting bagi suku Dayak."
         },
         {
             "id": 105,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kuntul Perak",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/3.png",
             "daerah": "Kalimantan Timur",
-            "makna": "asda"
+            "makna": "Kuntul perak (Egretta intermedia) merupakan hewan asli Kalimantan dan merupakan lambang dari kota Bontang. Motif ini menghargai keindahan burung kuntul, dan melambangkan rakyat Bontang yang pekerja keras, ramah, ceria, dan berpikiran terbuka seperti halnya burung perlambang jiwa mereka ini"
         },
         {
             "id": 106,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Hiu Taliyasan",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1.png",
             "daerah": "Kalimantan Timur",
-            "makna": "asda"
-        },
-        {
-            "id": 107,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Timur",
-            "makna": "asda"
-        },
-        {
-            "id": 108,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Timur",
-            "makna": "asda"
-        },
-        {
-            "id": 109,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Timur",
-            "makna": "asda"
+            "makna": "Indonesia juga merupakan asal-muasal ikan terbesar sedunia, yakni ikan hiu paus (Rhincodon typus).  “Hiu Taliyasan” berarti hiu yang berasal dari desa nelayan Taliyasan.  Ikan ini dinyatakan sebagai ikan terbesar di seluruh dunia karena panjangnya yang mencapai 18 meter dan bobotnya yang mencapai 20 ton.  Ikan hiu ini jinak dan ramah terhadap manusia kecuali jika sedang lapar, dan bersahabat dengan nelayan di desa Taliyasan yang terletak di tepi Laut Derawan."
         },
         {
             "id": 110,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Gigi Haruan Lidi",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-4.png",
             "daerah": "Kalimantan Selatan",
-            "makna": "asda"
+            "makna": "Motif Gigi Haruan Lidi diambil dari nama ikan Haruan atau ikan gabus dan ular Lidi. Baik Haruan maupun Lidi memiliki gigi tajam, dan gigi ini merupakan simbol ketajaman pikiran. Selain itu, menurut hikayat Banjar, baik ular Lidi maupun ikan Haruan merupakan hewan yang cerdas dan pemberani, karena mereka tahu caranya mengeluarkan diri dari kesulitan di alam dan tidak menyerah ketika diburu hingga akhir hayatnya. Kaum Banjar menghormati mereka karena kelicikannya, karena mereka sangat sulit disudutkan dan ditangkap. Falsafah dibalik motif ini adalah bahwa manusia harus cerdas dan dapat membaca situasi, dan tetap berani hingga akhir."
         },
         {
             "id": 111,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tampuk Manggis",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-4.png",
             "daerah": "Kalimantan Selatan",
-            "makna": "asda"
+            "makna": "Motif Sasirangan Tampuk Manggis menggambarkan falsafah buah manggis, yang merupakan simbol kesetaraan dan kejujuran. Buah manggis menggambarkan dengan jelas berapa jumlah daging buah yang dimilikinya dari jumlah “kelopak” di kulit bagian bawahnya, dan ketika matang, daging buah tersebut semua sama ukurannya. Motif ini menyiratkan bahwa manusia harus mengembangkan sifat jujur dan tulus, menyamakan perilaku luarnya dengan pikiran dalamnya."
         },
         {
             "id": 112,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Bayam Raja",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2-4.png",
             "daerah": "Kalimantan Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 113,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 114,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 115,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 116,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Selatan",
-            "makna": "asda"
+            "makna": "Motif Sasirangan Raja Bayam menggambarkan status sosial penggunanya dan melambangkan kewibawaan para leluhur. Rancangan motif ini berupa garis vertikal berlekuk yang memisahkan satu motif dari lainnya."
         },
         {
             "id": 117,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Insang Ikan",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/4-1.png",
             "daerah": "Kalimantan Barat",
-            "makna": "asda"
+            "makna": "Insang ikan merupakan motif yang sering dipergunakan oleh kaum Melayu yang tinggal di sepanjang tepian Sungai Kapuas. Ia melambangkan rasa syukur manusia kepada Tuhan. Insang merupakan bagian tubuh ikan yang paling penting, yang memungkinkan ikan untuk bernapas dan hidup."
         },
         {
             "id": 118,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Awan Berarak",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2-3.png",
             "daerah": "Kalimantan Barat",
-            "makna": "asda"
+            "makna": "Awan Berarak merupakan kombinasi motif Dayak dengan Melayu. Motif ini menggambarkan seseorang yang sopan santun dan lembut, khas sifat orang Melayu. Sebagai gambaran dari anggunnya awan yang berarak di langit, ia juga menggambarkan tingginya kedudukan keluarga kerajaan yang mendukung dan melindungi rakyat. Motif ini khusus untuk dipergunakan keluarga penguasa Kerajaan Amantubilah Mempawah di Pontianak."
         },
         {
             "id": 119,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tidayu",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-3.png",
             "daerah": "Kalimantan Barat",
-            "makna": "asda"
+            "makna": "Nama motif ini merupakan singkatan nama tiga etnis: Tionghoa, Dayak, dan Melayu. Motif Tidayu mencakup motif-motif suci yang diadopsi dari masing-masing budaya daerah ini, misalnya motif Lembayung, Beuntai, Lentera, Hutan, Harmoni, Burung Hong, dan Burung Bangau. Motif ini mencerminkan harmoni antar suku dan budaya di kota Singkawang."
         },
         {
             "id": 120,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Dayak Kamang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-3.png",
             "daerah": "Kalimantan Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 121,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 122,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 123,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Barat",
-            "makna": "asda"
+            "makna": "Motif Kamang pada umumnya ditemukan pada perisai suku Dayak, karena diyakini akan meningkat­kan daya magis dan semangat orang yang menggunakannya. Kamang adalah ruh leluhur pria, seringkali digambarkan hanya mengenakan cawat dan duduk bersila."
         },
         {
             "id": 124,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Bunga Raye",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2-2.png",
             "daerah": "Kalimantan Utara",
-            "makna": "asda"
+            "makna": "Motif Bunga Raye melambangkan kesatuan antara suku Dayak Tidung dengan suku Bulungan, sehingga bermakna persatuan di balik perbedaan. Motif ini juga menggambarkan harapan akan keselamatan dan kesembuhan dari segala penyakit."
         },
         {
             "id": 125,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Bultiya",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/11/bultiyaKalimantan.png",
             "daerah": "Kalimantan Utara",
-            "makna": "asda"
+            "makna": "Kata “Bultiya” merupakan singkatan nama tiga suku besar di Kalimantan Utara, yakni suku Bulungan, Tidung, dan Dayak. Motif ini diciptakan oleh Ridwansyah, seorang pengrajin batik dari Kabupaten Bulungan. Ia menciptakan motif ini untuk menghargai dan membantu memperkuat hubungan serasi antar suku di Kabupaten Bulungan, Kalimantan Utara."
         },
         {
             "id": 126,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Bekantan Pakis",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-2.png",
             "daerah": "Kalimantan Utara",
-            "makna": "asda"
+            "makna": "Motif ini menggambarkan Pakis Haji (Polystichum setiferum), tanaman pakis asli di Kalimantan Utara, dan Bekantan, monyet Kalimantan langka yang berhidung besar. Tanaman pakis melambangkan umur panjang dan keabadian. Bekantan digambarkan sebagai usaha membantu pelestariannya."
         },
         {
             "id": 127,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Dayak Taghol",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-2.png",
             "daerah": "Kalimantan Utara",
-            "makna": "asda"
-        },
-        {
-            "id": 128,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Utara",
-            "makna": "asda"
-        },
-        {
-            "id": 129,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Kalimantan Utara",
-            "makna": "asda"
+            "makna": "Motif Dayak Taghol merupakan pola khas berupa empat garis lengkung dan titik-titik.  Motif ini melambangkan perisai, yang merupakan simbol daya tahan dan keutuhan di masyarakat."
         },
         {
             "id": 130,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pinawetengan",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-5.png",
             "daerah": "Sulawesi Utara",
-            "makna": "asda"
+            "makna": "Pola Batik Pinawetengan diambil dari prasasti prasejarah di Sulawesi Utara, yang disebut Watu Pinawetengan, yang ada sejak 1000 SM. Situs budaya ini ditemukan oleh J.G.F. Riedel pada tahun 1881. Situs ini adalah tempat di mana nenek moyang orang Minahasa membagi wilayah mereka menjadi sembilan kelompok sub-etnis Minahasa saat ini. Motif utama kain Pinawetengan adalah bunga matahari yang merupakan ikon Desa Pinawetengan, di mana situs Watu Pinawetengan berada."
         },
         {
             "id": 131,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tari Kabasaran",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2-5.png",
             "daerah": "Sulawesi Utara",
-            "makna": "asda"
+            "makna": "Motifnya menggambarkan tarian Kabasaran, yang merupakan tarian sakral yang ditampilkan dalam upacara adat Minahasa. Di zaman kuno, tarian ini dilakukan untuk dapat membunuh atau mengusir dari roh jahat yang mengganggu upacara.            "
         },
         {
             "id": 132,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Waruga",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-5.png",
             "daerah": "Sulawesi Utara",
-            "makna": "asda"
+            "makna": "Motif batik Minahasa diadopsi dari Waruga. Waruga adalah makam leluhur Minahasa, yang terbuat dari batu yang terdiri dari berbagai lapisan. Bentuk segitiga waruga atas berisi relief yang disebut Tonaas. Ada dua macam Tonaas, yaitu ‘Tonaas ang kayobaan’ yang mewakili seorang manusia yang memiliki kesaktian dan “Tuama Loor” yang merepresentasikan maskulinitas."
         },
         {
             "id": 133,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Manguni Minahasa",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/Sulawesi-Utara.png",
             "daerah": "Sulawesi Utara",
-            "makna": "asda"
+            "makna": "Manguni diidentifikasi sebagai simbol orang Minahasa. Manguni dalam dialek setempat adalah sebutan untuk burung hantu yang memiliki banyak kelebihan. Burung ini bisa terbang dan melihat hingga 300 meter jarak penglihatan di malam hari. Itu dianggap sebagai media orang Minahasa untuk berkomunikasi dengan alam. Pada zaman dahulu, suara burung tertentu memberikan tanda yang berbeda untuk membantu petani mengatasi hama tikus yang menyerang tanaman            "
         },
         {
             "id": 134,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tari Maengket",
+            "image": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/11/7/3553667/3553667_45eafdd0-f53a-402c-b870-661b63b02602_960_960.jpg?ect=4g",
             "daerah": "Sulawesi Utara",
-            "makna": "asda"
+            "makna": "Tarian ini merupakan tarian spiritual dari Minahasa, di mana tarian menggambarkan rasa syukur manusia pada Yang Kuasa atas berkatnya, rasa syukur atas rumah baru yang dihuni, dan rasa suka cita para pemuda pemudi."
         },
         {
             "id": 135,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Bia (Cangkang laut)",
+            "image": "https://cdn-brilio-net.akamaized.net/community/community-news/2019/06/19/e448d13b0feaac366a42cc3c14830f5d/16-image_1560704239_5d0674ef0f3d5.jpg",
             "daerah": "Sulawesi Utara",
-            "makna": "asda"
+            "makna": "Motif yang satu ini memang umum, namun bagi yang mengenal Sulawesi Utara, maka ini menggambarkan pesona laut yang ada di Laut Likupang Kabupaten Minahasa Utara (Minut)."
         },
         {
             "id": 136,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Paqbarre Allo",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-1.png",
             "daerah": "Sulawesi Selatan",
-            "makna": "asda"
+            "makna": "Kata “Barre” berarti bulat dan “Allo” berarti sinar matahari. Ukiran ini diartikan sebagai sains dan kebijaksanaan yang menerangi seperti sinar matahari. Di tengah motif adalah Kepala Kerbau, yang merupakan simbol kemuliaan etnis Toraja."
         },
         {
             "id": 137,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tongkonan",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-1.png",
             "daerah": "Sulawesi Selatan",
-            "makna": "asda"
+            "makna": "Rumah tradisional Toraja disebut Tongkonan. Tongkonan adalah tempat bagi orang-orang di desa untuk berkonsultasi dan menyelesaikan masalah komunitas. Hampir semua rumah Toraja menghadap ke utara karena diyakini bahwa utara adalah arahan Tuhan. Orang Toraja percaya bahwa ketika penghuni menginjakkan kaki di luar rumah, mereka akan dibimbing oleh kehendak ilahi dan keberuntungan."
         },
         {
             "id": 138,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik La Galigo",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/4-1.png",
             "daerah": "Sulawesi Selatan",
-            "makna": "asda"
+            "makna": "La Galigo adalah karya sastra Epic Bugis yang memiliki 300.000 cerita epik. Epik ini bahkan dianggap lebih panjang dari kisah Mahabharata India. Salah satu epik La Galigo menggambarkan asal-usul Sangiang Serri, tradisi persembahan seremonial yang dilakukan oleh petani sebelum musim tanam. Perajin batik lokal terinspirasi dari cerita La Galigo untuk menciptakan motif batik."
         },
         {
             "id": 139,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Lontara",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/2-1.png",
             "daerah": "Sulawesi Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 140,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Selatan",
-            "makna": "asda"
-        },
-        {
-            "id": 141,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Selatan",
-            "makna": "asda"
+            "makna": "Aksara Lontara adalah aksara kuno khas komunitas Bugis dan Makassar. Sejarah mencatat bahwa aksara Lontara adalah pengembangan dari aksara Kawi yang sudah ada di Nusantara sekitar abad ke-8."
         },
         {
             "id": 142,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Ake Patra",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-9.png",
             "daerah": "Sulawesi Tenggara",
-            "makna": "asda"
+            "makna": "Ake terkait dengan keilahian dan komposisi alam semesta. Itu adalah simbol pencerahan Allah bagi Raja. Motif ini biasanya diproduksi pada tekstil tenun, tetapi baru-baru ini para produsen di Sulawesi Tenggara juga mencoba mengembangkan versi Batik dari motif ini.            "
         },
         {
             "id": 143,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pati-Pati Pinehiku",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2-8.png",
             "daerah": "Sulawesi Tenggara",
-            "makna": "asda"
+            "makna": "Motif ini melambangkan hierarki dalam masyarakat dan status sosial suku Mekongga. Tujuh tangga-pola mengacu pada raja, sedangkan 5 tangga menandakan ksatria. Motif ini biasanya diproduksi pada tekstil tenun, tetapi baru-baru ini para produsen di Sulawesi Tenggara juga mencoba mengembangkan versi Batik dari motif ini."
         },
         {
             "id": 144,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Kalo Sara",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-8.png",
             "daerah": "Sulawesi Tenggara",
-            "makna": "asda"
+            "makna": "Kalo Sara adalah motif sakral untuk etnis Tolaki. Ini dianggap sebagai cara hidup, penciptaan tatanan sosial dan moral dalam masyarakat. Motif ini jug merepresentasikan solusi untuk mengatasi konflik sosial-budaya di komunitas Tolaki. Motif ini dapat ditemukan dalam arsitektur tradisional, juga dalam Batik, dan tekstil tenun."
         },
         {
             "id": 145,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Wakatobi",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/4-4.png",
             "daerah": "Sulawesi Tenggara",
-            "makna": "asda"
-        },
-        {
-            "id": 146,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Tenggara",
-            "makna": "asda"
-        },
-        {
-            "id": 147,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Tenggara",
-            "makna": "asda"
+            "makna": "Motif batik ini melambangkan keindahan pesisir pulau Wakatobi. Simbol daun Patra mengacu pada kesadaran diri dan keilahian. Motif Batik ini diciptakan oleh produsen lokal sebagai motif Batik khas Daerah Khusus Wakatobi, Sulawesi Tenggara."
         },
         {
             "id": 148,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Bomba Mawar",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-8.png",
             "daerah": "Sulawesi Tengah",
-            "makna": "asda"
+            "makna": "Motif ini berarti cinta sakral bagi keluarga, kerajaan, dan Tuhan; Ini juga menggambarkan keterbukaan dan kebersamaan dalam kehidupan sosial masyarakat Palu."
         },
         {
             "id": 149,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Cengkeh",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/4-3.png",
             "daerah": "Sulawesi Tengah",
-            "makna": "asda"
+            "makna": "Motif bunga cengkeh menggambarkan komoditas utama Kabupaten Tolitoli. Motif ini memiliki makna penyembuhan dan harapan baik untuk kesehatan dan kesejahteraan bagi pemakainya."
         },
         {
             "id": 150,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Sero Tangga",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/2-7.png",
             "daerah": "Sulawesi Tengah",
-            "makna": "asda"
+            "makna": "Motif Sero Tangga menggambarkan kehidupan masyarakat nelayan pesisir Sulawesi. Motif ini berarti hasil kerja keras yang membuahkan hasil. Berdasarkan literatur masyarakat pesisir, motif ini juga menyiratkan pencapaian, harapan baik serta rasa yang tulus untuk dapat membuat orang yang dicintai bahagia."
         },
         {
             "id": 151,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Taiganja",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-7.png",
             "daerah": "Sulawesi Tengah",
-            "makna": "asda"
-        },
-        {
-            "id": 152,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Tengah",
-            "makna": "asda"
-        },
-        {
-            "id": 153,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Tengah",
-            "makna": "asda"
+            "makna": "Taiganja adalah liontin emas berharga yang menunjukkan status sosial keluarga Kaili. Pusaka ini sering digunakan sebagai mahar pernikahan dan sebagai benda sakral dalam upacara tradisional. Taiganja menggambarkan rahim seorang wanita, yang oleh masyarakat setempat dipercaya sebagai awal kehidupan manusia. Motif ini mewakili kesuburan dan menggambarkan perasaan cinta dan ketulusan hati."
         },
         {
             "id": 154,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Sandeq",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/1-1.png",
             "daerah": "Sulawesi Barat",
-            "makna": "asda"
+            "makna": "Perahu Sandeq adalah simbol kekuatan bahari di wilayah Sulawesi Barat. Kehebatan para pelaut Mandar dibuktikan dengan pembangunan kapal legendarisnya. Sandeq mampu menahan gelombang besar dan oleh karanya, Sandeq dianggap sebagai maha karya pembuatan kapal di zaman kuno. Nenek moyang Mandar menggunakan perahu untuk berlayar melintasi benua di Asia dan Afrika."
         },
         {
             "id": 155,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Lipaq Sabe",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/2.png",
             "daerah": "Sulawesi Barat",
-            "makna": "asda"
+            "makna": "Lipaq Sabe atau Lipaq Saqbe mengandung motif geometris klasik sederhana, dihiasi dengan berbagai simbol suku. Tekstil ini diklasifikasikan sebagai tekstil tenun, yang hanya dikenakan pada acara-acara tertentu seperti pernikahan, upacara tradisional, upacara keagamaan. Terkadang digunakan untuk salat Jumat di masjid."
         },
         {
             "id": 156,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Rumah Mamuju",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/3-1.png",
             "daerah": "Sulawesi Barat",
-            "makna": "asda"
+            "makna": "Mandar Batik menggambarkan rumah Raja Mamuju dengan karakteristik utama tangga di sebelah kiri bangunan rumah kayu. Motif mungkin memiliki kombinasi yang bervariasi seperti dengan perahu Sandeq, burung Maleo, drum dan lanskap Mandar."
         },
         {
             "id": 157,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Sekomandi",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/12/Sulawesi-Barat.png",
             "daerah": "Sulawesi Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 158,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Barat",
-            "makna": "asda"
-        },
-        {
-            "id": 159,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Sulawesi Barat",
-            "makna": "asda"
+            "makna": "Tekstil Sekomandi adalah batik khas dan warisan tekstil tenun suku Mandar, Sulawesi Barat. Motif ini adalah contoh dari motif Sekomandi yang disebut Teroraq Ri Marilotong. Makna filosofisnya adalah persatuan abadi yang merujuk pada ungkapan “sampai maut memisahkan kita”. Wastra ini terdiri dari pola geometris hitam dan putih, yang warna hitamnya menggunakan pewarna alami, terbuat dari rumput khas di wilayah tersebut."
         },
         {
             "id": 160,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Karawo Pinang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/3-6.png",
             "daerah": "Gorontalo",
-            "makna": "asda"
+            "makna": "Motif Pinang menggambarkan pohon pinang palem. Motif ini dianggap sebagai pola asli tekstil sulaman Karawo. Arti dari motif ini adalah seseorang yang berpikiran lurus, protektif, perfeksionis, dan memiliki karakter pejuang. Tekstil Karawo Gorontalo disajikan dalam 4 warna tradisional. Kuning melambangkan kemakmuran, hijau berarti kesuburan, merah berarti keberanian, dan ungu dianggap sebagai simbol kekhidmatan."
         },
         {
             "id": 161,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Teluk Tomini",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/1-7.png",
             "daerah": "Gorontalo",
-            "makna": "asda"
+            "makna": "Motif ini menggambarkan keindahan kehidupan bawah laut di Teluk Tomini. Motif batik menggambarkan makhluk air dan ikan berwarna-warni yang menjadi kekayaan hayati daerah ini."
         },
         {
             "id": 162,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Jagung",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/5-1.png",
             "daerah": "Gorontalo",
-            "makna": "asda"
+            "makna": "Filosofi motif jagung menggambarkan mimpi dan semangat hidup yang tidak pernah mati. Motif ini juga berarti bahwa orang yang berpikir positif akan lebih bahagia dan memiliki kualitas hidup yang lebih baik. Hidupnya digerakkan oleh semangat yang baik dan kepercayaan diri untuk mencapai kesuksesan."
         },
         {
             "id": 163,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Karawo Mahkuta",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2019/10/4-2.png",
             "daerah": "Gorontalo",
-            "makna": "asda"
-        },
-        {
-            "id": 164,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Gorontalo",
-            "makna": "asda"
-        },
-        {
-            "id": 165,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Gorontalo",
-            "makna": "asda"
+            "makna": "Mahkuta mengacu pada mahkota tradisional Gorontalo. Motif bordir Karawo ini mewakili karakteristik yang baik dari seorang pemimpin dan menjadi orang yang berguna di masyarakat. Ini juga menunjukkan bahwa seorang pria atau seorang suami harus memiliki kedudukan tinggi sebagai seorang pemimpin yang berkarakter lembut.            "
         },
         {
             "id": 166,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Tifa Totobuang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/2-4.png",
             "daerah": "Maluku",
-            "makna": "asda"
+            "makna": "Motif batik ini menggambarkan alat musik tradisional Maluku, yaitu Tifa Totobuang. Tifa Totobuang mewakili identitas masyarakat Maluku. Itu dapat dilihat di banyak latar sosial setempat seperti dalam tarian tradisional, ritual, dan pola tekstil."
         },
         {
             "id": 167,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pantai Ambon",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-4.png",
             "daerah": "Maluku",
-            "makna": "asda"
+            "makna": "Batik kota Ambon menggambarkan kekayaan alam dan kehidupan bahari teluk Ambon. Warna-warna cerah dan pola asimetris mencerminkan dinamisme dan keterbukaan masyarakat pesisir."
         },
         {
             "id": 168,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pattimura",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/Maluku.png",
             "daerah": "Maluku",
-            "makna": "asda"
+            "makna": "Pattimura adalah nama pahlawan Indonesia yang berperang melawan kolonialisme di abad ke-18. Motif Pattimura diilustrasikan dalam kombinasi dengan motif suku khas lainnya di wilayah Maluku. Motif ini berarti kerja sama dalam masyarakat dan kepahlawanan."
         },
         {
             "id": 169,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
+            "nama_batik": "Batik Pala Salawaku",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-3.png",
             "daerah": "Maluku",
-            "makna": "asda"
-        },
-        {
-            "id": 170,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Maluku",
-            "makna": "asda"
+            "makna": "Motif ini menggambarkan senjata tradisional yang unik dari wilayah Maluku, yang disebut Salawaku. Belati salawaku digunakan di banyak lingkungan sosial lokal, karena melambangkan identitas masyarakat Maluku seperti dalam tarian tradisional, ritual, dan pola tekstil. Sementara kata ‘Pala’ mengacu pada pala sebagai salah satu komoditas utama Maluku."
         },
         {
             "id": 171,
-            "nama_batik": "Batik Megamendung",
-            "image": "img",
-            "daerah": "Maluku",
-            "makna": "asda"
+            "nama_batik": "Batik Burung Bidadari",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-2.png",
+            "daerah": "Maluku Utara",
+            "makna": "Burung Bidadari (Semioptera wallacii) adalah burung endemik di Maluku. Spesies burung ini dianggap langka di dunia. Kata ‘Bidadari’ berarti malaikat yang cantik. Motif ini mewakili cinta kasih sayang orang tua kepada anak-anak mereka."
+        },
+        {
+            "id": 171,
+            "nama_batik": "Batik Alam Pantai",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/Maluku-Utara.png",
+            "daerah": "Maluku Utara",
+            "makna": "Kata “Alam Pantai” mengacu pada keindahan alami pemandangan pantai. Pola warna-warni juga menggambarkan karakter etnis Tubo yang dinamis, penuh rasa terima kasih dan terbuka."
+        },
+        {
+            "id": 171,
+            "nama_batik": "Batik Tubo Kelapa",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-3.png",
+            "daerah": "Maluku Utara",
+            "makna": "Pohon Kelapa umumnya dapat ditemui di pantai- pantai Maluku Utara. Pohon ini merupakan simbol karakter yang baik dan mental yang kuat. Ini menggambarkan semakin sukses seseorang, semakin dia perlu memiliki mental yang kuat dan rendah hati. Ini juga mengandung kebijaksanaan untuk menggunakan kekuatan seseorang untuk melindungi yang lain dan memberikan pengaruh positif di masyarakat. Motif ini adalah pola khas yang diproduksi oleh bengkel Batik Tubo di Maluku Utara."
         },
         {
             "id": 178,
-            "nama_batik": "Batik Bintang Kejora dari Maumere",
-            "image": "img",
+            "nama_batik": "Batik Kuda Sepasang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-5.png",
             "daerah": "Nusa Tenggara Timur",
-            "makna": "Motif Bintang Kejora berbentuk bintang berganda tiga yang melambangkan unit keluarga yang terdiri dari suami, istri dan anak. Persegi empat dengan isian belah ketupat kompleks melambangkan pertanda pencegah malapetaka. Sehingga, motif Bintang Kejora ini diyakini, pemakainya bisa mendapatkan penerangan atau petunjuk dan sekaligus kain itu digunakan sebagai media penolak malapetaka."
+            "makna": "Bagi masyarakat Kupang, memiliki kuda yang kuat adalah simbol martabat dan harga diri. Motif kuda juga melambangkan kebanggaan, kekuatan, dan keberanian. Sepasang kuda melambangkan kehidupan pernikahan yang harmonis. Arti dari motif ini adalah untuk saling mencintai, untuk menciptakan hubungan yang bahagia, penuh kasih dan kepedulian antara suami dan istri."
         },
         {
             "id": 179,
-            "nama_batik": "Batik Lawo Butu",
-            "image": "img",
+            "nama_batik": "Batik Kuda Kupang",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/2-7.png",
             "daerah": "Nusa Tenggara Timur",
-            "makna": "Motif Lawo Butu ini termasuk motif kain tenun yang sudah punah, karena sulit dalam pengerjaannya. Motif ini digambarkan berupa perahu (sampan), kuda, gurita dan manusia serta ragam hias yang kompleks. Biasanya kain tenun dengan motif Lawo Butu dikenakan dalam upacara adat dan ritual meminta hujan."
+            "makna": "Kuda melambangkan kekayaan dan dianggap sebagai hewan yang sangat membantu untuk kegiatan sehari-hari masyarakat seperti sarana transportasi darat, kegiatan upacara tradisional, dll. Kuda juga melambangkan kebanggaan, kekuatan, dan keberanian. Motif ini menyiratkan pesona pribadi pemakainya, serta makna lain seperti persahabatan, harmoni, gairah, dan ketekunan dalam mengejar tujuan mereka. Motif ini berisi nilai-nilai luhur karakter berbudi luhur yang membawa manfaat bagi kemakmuran sosial dan kebahagiaan."
         },
         {
             "id": 180,
-            "nama_batik": "Batik Kaliuda",
-            "image": "img",
+            "nama_batik": "Batik Pucuk Mekar",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-7.png",
             "daerah": "Nusa Tenggara Timur",
-            "makna": "Motif Kali Uda yang ini merpakan kombinasi antara kuda dan ayam. Motif kuda melambangkan kebanggaan, kekuatan dan keberanian. Sedangkan figur ayam pada motif kain tenun, melambangkan kehidupan wanita ketika berumah tangga. Kain tenun dengan motif ini digunakan sebaga mahar kawin yang bernilai tinggi di kalangan warga Sumba, selain juga diminati turis asing."
+            "makna": "Motif ini menggambarkan tanaman yang mulai mekar saat musim hujan dimulai. Motif ini mencerminkan kegembiraan dan syukur kepada Tuhan atas rahmat hujan. Nusa Tenggara Timur, secara umum, dikenal sebagai daerah kering Indonesia. Karena itu, tetesan hujan dianggap sebagai hadiah besar dan simbol berkah melimpah bagi masyarakat Kupang."
         },
         {
             "id": 181,
-            "nama_batik": "Batik Andungu",
-            "image": "img",
+            "nama_batik": "Batik Teguh Bersatu",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/4-5.png",
             "daerah": "Nusa Tenggara Timur",
-            "makna": "Motif Andungu atau pohon tengkorak ini merupakan motif yang khas pada kain tenun ikat Sumba Timur. Pohon tersebut merupakan lambang pohon lontar di halaman rumah raja-raja, pohon di mana mereka menggantung tengkorak musuh atau penjahat."
-        },
-        {
-            "id": 182,
-            "nama_batik": "Batik Kurangu",
-            "image": "img",
-            "daerah": "Nusa Tenggara Timur",
-            "makna": "motif Kurangu yang biasanya dikenakan oleh para raja dan bangsawan ini, mengandung makna simbolik, bahwa hidup itu akan terus berlangsung karena di balik kematian tetap ada kehidupan.            "
-        },
-        {
-            "id": 183,
-            "nama_batik": "Batik Mamuli",
-            "image": "img",
-            "daerah": "Nusa Tenggara Timur",
-            "makna": "Mamuli adalah perhiasan anting-anting khas Sumba yang berbentuk omega yang menyerupai rahim atau kelamin perempuan. Tak salah kalau kemudian motif mamuli ini melambangkan kesuburan yang dimaksudkan untuk menghormati perempuan. Kain tenun dengan motif mamuli ini, biasanya diberikan calon mempelai laki-laki kepada pengantin perempuan."
+            "makna": "Motif batik ini menunjukkan kekuatan masyarakat Kupang. Motif ini juga mewakili rasa persatuan dalam hal tradisi dan budaya, namun tetap terbuka untuk hal-hal baru yang baik, saling menghormati, dan toleransi untuk adat dan budaya yang beragam."
         },
         {
             "id": 185,
@@ -1255,74 +849,87 @@
         },
         {
             "id": 186,
-            "nama_batik": "Batik Bunga Samobo",
-            "image": "img",
+            "nama_batik": "Batik Bale Lumbu",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-7.png",
             "daerah": "Nusa Tenggara Barat",
-            "makna": "Bunga Samobo atau Bunga Sekuntum melambangkan bahwa manusia adalah mahluk sosial yang bisa memberikan manfaat bagi orang lain, selain bagi dirinya sendiri. Laksana sekuntum bunga yang bisa memberikan aroma harum bagi lingkungannya. Sedangkan warna ungu dan hitam yang memenuhi kain tenun ini, melambangkan kesabaran dan ketabahan."
+            "makna": "Motif ini menandakan kesejahteraan masyarakat Sasak kuno. Bale juga melambangkan bentuk rumah tradisional masyarakat Sembalun, Lombok Timur. Bale juga berfungsi sebagai lumbung makanan tradisional yang digunakan oleh masyarakat desa Lombok."
         },
         {
             "id": 187,
-            "nama_batik": "Batik Tokek",
-            "image": "img",
+            "nama_batik": "Batik Peresean",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/2-9.png",
             "daerah": "Nusa Tenggara Barat",
-            "makna": "tokek diyakini sebagai hewan keberuntungan bagi suku Sasak di Lombok. Jadi kain tenun yang bermotif figur tokek, diyakini akan memberi keberuntungan bagi pemakainya."
+            "makna": "Motif ini menggambarkan pertunjukan tari Peresean yang biasanya dilakukan pada peringatan Hari Proklamasi, atau hari libur besar lainnya. Peresean adalah permainan yang mengadu kekuatan antar pemain. Dalam tarian ini, para pemain diperbolehkan saling memukul dengan menggunakan rotan hingga lawan menyerah. Terkadang pemain menggunakan ilmu sihir untuk memenangkan permainan, misalnya, Bau Balung. Bau Balung adalah sihir yang dapat menyebabkan lawan kehilangan energi. Motif Peresean digambarkan dalam motif batik sebagai apresiasi yang dibuat untuk melestarikan seni pertunjukan khusus ini di Lombok, Nusa Tenggara Barat."
         },
         {
             "id": 188,
-            "nama_batik": "Batik Keker",
-            "image": "img",
+            "nama_batik": "Batik Tenun Bima",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-8.png",
             "daerah": "Nusa Tenggara Barat",
-            "makna": "Motif Keker merupakan motif klasik yang berasal dari Lombok, khususnya Desa Sukarare. Motifnya berupa hewan merak berhadap-hadapan yang bernaung di bawah pohon. Motif Keker ini, melambangkan kebahagiaan dan kedamaian dalam memadu kasih di bawah pohon. Biasanya, motif kain tenun ini digunakan untuk pergi ke pesta."
+            "makna": "Motif-motif diadopsi dari tekstil tenun Bima. Pola ini kurang lebih mendapat pengaruh besar dari budaya Islam. Hal unik lainnya tentang batik ini adalah pemilihan warna dan garis geometris segitiga. Kombinasi warna memiliki setidaknya 3 warna dengan dasar hitam atau putih."
         },
         {
             "id": 189,
-            "nama_batik": "Batik Sasambo",
-            "image": "img",
+            "nama_batik": "Batik Daun Sirih",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/4-6.png",
             "daerah": "Nusa Tenggara Barat",
-            "makna": "jenis batik Sasambo. Nama ini merupakan gabungan tiga suku yang mendiami NTB, yaitu Sasak (Lombok), Samawa (Sumbawa), dan Mbojo (Bima). Ketiga suku ini bersatu dalam membangun tradisi membatik di Nusa Tenggara Barat. Batik Sasambo dikerjakan dengan menggunakan teknik menempelkan potongan besi panas pada kain untuk melepas bahan lilin yang telah menempel pada kain terlebih dahulu. Motif batik Sasambo yang terkesan abstrak justru menarik, terlihat unik menciptakan estetikanya sendiri yang berbeda dengan batik pada umumnya. "
+            "makna": "Motif ini menggambarkan daun sirih yang digunakan oleh masyarakat Lombok sebagai obat herbal tradisional. Motif ini melambangkan kesejahteraan, umur panjang dan penyembuhan. Motifnya kebanyakan dilukis dengan warna biru atau hijau."
         },
         {
             "id": 190,
-            "nama_batik": "Batik Cendrawasih",
-            "image": "img",
-            "daerah": "Papua",
-            "makna": "Burung cendrawasih menjadi ikon Papua yang memiliki julukan “Bird of Paradise”. Keindahan bulu dan ekornya tidak tertandingi. Motif batik ini menonjolkan kecantikan burung cendrawasih dan alat musik Tifa. Warna-warna batiknya didominasi hijau, merah, dan kuning keemasan. Batik bermotif burung cendrawasih yang gagah memberikan kesan tegas pada penampilan pemakainya."
+            "nama_batik": "Batik Raja Ampat",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-6.png",
+            "daerah": "Papua Barat",
+            "makna": "Motif Raja Ampat menggambarkan kehidupan bahari di kepulauan Raja Ampat di Papua Barat. Raja Ampat adalah cagar alam yang indah yang terdiri dari sekelompok pulau membentuk lanskap unik dengan air pirus kristal. Tempat ini juga terkenal dengan terumbu karang dan taman lautnya yang indah.            "
         },
         {
             "id": 191,
-            "nama_batik": "Batik Asmat",
-            "image": "img",
-            "daerah": "Papua",
-            "makna": "Motif Asmat termasuk populer di Papua. Namanya diambil dari suku asli penghuni Bumi Cendrawasih. Batik ini umumnya didominasi corak ukiran khas suku Asmat, seperti patung-patung duduk kayu. Warna batiknya pun memiliki ciri khas tersendiri, lebih cokelat dengan campuran warna tanah dan terakota (merah kecokelat-cokelatan)."
+            "nama_batik": "Batik Burung Cendrawasih",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/2-6.png",
+            "daerah": "Papua Barat",
+            "makna": "Burung Cendrawasih merupakan motif yang menggambarkan burung endemik di tanah Papua. Cendrawasih adalah salah satu spesies burung langka, dilindungi oleh pemerintah Indonesia. Burung ini dipercaya sebagai burung surga yang menghubungkan kehidupan di bumi dengan surga. Motif ini juga dianggap sebagai motif sakral dan mewakili identitas masyarakat Papua, baik di provinsi Papua maupun Papua Barat."
         },
         {
             "id": 192,
-            "nama_batik": "Batik Prada",
-            "image": "img",
-            "daerah": "Papua",
-            "makna": "Motif Prada menawarkan kemewahan dan kemegahan dengan sentuhan garis-garis emas. Batik ini biasanya juga dikombinasi warna hitam dan merah. Model yang berkelas menjadikan Batik Prada paling mahal dan indah dari Papua. Produksinya menggunakan kualitas benang terbaik yang berbahan dasar sutra. Kadang mengandalkan bahan kain santung yang sangat mirip dengan sutra dan katun."
+            "nama_batik": "Batik Honai",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-4.png",
+            "daerah": "Papua Barat",
+            "makna": "Honai merupakan motif yang terinspirasi dari rumah tradisional masyarakat Papua yang tinggal di pegunungan. Honai adalah rumah berbentuk bulat dengan atap yang terbuat dari kayu dan jerami. Honai melambangkan persatuan di antara suku-suku. Motif ini juga mewakili simbol kepribadian, integritas budaya, dan martabat suku."
         },
         {
             "id": 193,
-            "nama_batik": "Batik Tifa Honai",
-            "image": "img",
-            "daerah": "Papua",
-            "makna": "Batik Tifa Honai memiliki filosofi yang cukup kuat. Sesuai namanya, Honai sebagai rumah adat Papua melambangkan keluarga, sedangkan alat musik tifa menonjolkan kebahagiaan. Keduanya bermakna kebersamaan keluarga yang bahagia. Motif ini juga terinspirasi kekayaan alam di Pulau Emas, seperti sumber mata air dan pemandangan yang indah."
+            "nama_batik": "Batik Prada Papua",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/1-4.png",
+            "daerah": "Papua Barat",
+            "makna": "Kata “Prada” dalam dialek Jawa-Indonesia berarti tekstil batik yang dihiasi dengan tinta emas. Motif Prada Papua sering mengadopsi peninggalan arkeologi di Papua. Motifnya sebagian besar diambil dari lukisan dinding gua di Biak di Papua Barat dan wilayah kabupaten Jayapura di Papua."
         },
         {
             "id": 194,
-            "nama_batik": "Batik Sentani",
-            "image": "img",
+            "nama_batik": "Batik Tifa Papua",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/2-5.png",
             "daerah": "Papua",
-            "makna": "Batik Sentani terkenal dengan kesederhanaannya. Motifnya menampilkan alur batang kayu yang melingkar dengan sentuhan garis-garis emas. Batik ini memiliki filosofi yang unik, menggambarkan tanah Papua yang sangat subur dan kaya akan hasil bumi."
+            "makna": "Motif ini berasal dari alat musik tradisional Papua, Tifa. Tifa adalah sejenis alat musik perkusi dari kayu berbentuk tabung. Satu sisi instrumen ditutup dengan kulit binatang kering. Bentuk dan fungsinya sekilas hampir sama dengan instrumen drum, tetapi suara yang dihasilkan terdengar lebih ringan. Tifa digunakan untuk mengiringi upacara tradisional dan tarian tradisional."
         },
         {
             "id": 195,
-            "nama_batik": "Batik Kamoro",
-            "image": "img",
+            "nama_batik": "Batik Kamaro Timika",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/Papua.png",
             "daerah": "Papua",
-            "makna": "Batik ini juga terkenal dengan nama Batik Papua Timika. Batik Kamoro terinspirasi dari suku asli Papua dengan keindahan alam dan keunikan seni ukirnya. Motifnya melambangkan simbol Patung Berdiri membawa tombak. Penggunaan warnanya cenderung lebih berani, seperti kombinasi biru dan hijau, hitam dan kuning, merah dan merah muda."
+            "makna": "Motif ini terinspirasi dari simbol suci komunitas Kamaro di Timika Papua. Polanya memiliki berbagai makna yang berbeda, diantaranya seperti ikatan kuat antara komunitas, persaudaraan, dan perlindungan terhadap nasib buruk."
+        },
+        {
+            "id": 195,
+            "nama_batik": "Batik Ukir Sentani",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/4-3.png",
+            "daerah": "Papua",
+            "makna": "Motif Ukir adalah motif batik yang terinspirasi oleh berbagai ukiran kayu tradisional Sentani di Papua. Polanya disusun dengan menggabungkan banyak motif berbeda pada selembar kain dan diwarnai dengan dua pewarna berbeda. Motif tersebut biasanya diambil dari simbol sakral untuk komunitas Sentani dengan berbagai makna yang berbeda, diantaranya seperti ikatan kuat antara komunitas, persaudaraan, dan perlindungan terhadap nasib buruk."
+        },
+        {
+            "id": 195,
+            "nama_batik": "Batik Asmat Papua",
+            "image": "https://www.iwarebatik.org/wp-content/uploads/2020/01/3-5.png",
+            "daerah": "Papua",
+            "makna": "Motif batik menggambarkan motif kesukuan suku Asmat yang pada umumnya ditemukan pada patung kayu. Batik Asmat biasanya dibuat menggunakan pewarna alami dari tanah terakota. Motif batik jenis ini umumnya diproduksi di banyak daerah di Papua, termasuk provinsi Papua Barat."
         }
-
     ]
 }
